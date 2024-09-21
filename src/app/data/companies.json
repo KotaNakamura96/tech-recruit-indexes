@@ -1,21 +1,21 @@
 {
     "companies": [
         {
-            "id": "1",
+            "id": 1,
             "name": "テックイノベーション株式会社",
             "industry": "AI・機械学習",
             "careerPageUrl": "https://example.com/techinnovation/careers",
             "techBlogUrl": "https://example.com/techinnovation/tech-blog"
         },
         {
-            "id": "2",
+            "id": 2,
             "name": "サイバーソリューションズ株式会社",
             "industry": "クラウドサービス",
             "careerPageUrl": "https://example.com/cybersolutions/careers",
             "techBlogUrl": "https://example.com/cybersolutions/tech-blog"
         },
         {
-            "id": "3",
+            "id": 3,
             "name": "デジタルフロンティア株式会社",
             "industry": "IoT・組み込みシステム",
             "careerPageUrl": "https://example.com/digitalfrontier/careers",
