@@ -6,10 +6,12 @@ type CompanyListProps = {
 
 const CompanyList = ({ companies }: CompanyListProps) => {
     return (
-        <div className="space-y-6">
-            {companies.map((company) => (
-                <CompanyCard key={company.id} company={company} />
-            ))}
+        <div>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                {companies.map((company) => (
+                    <CompanyCard key={company.id} company={company} />
+                ))}
+            </div>
             <p className="mt-8 text-gray-600 dark:text-gray-400">
                 表示中の企業数: {companies.length}件
             </p>
