@@ -10,6 +10,7 @@ const Footer = () => {
                         プライバシーポリシー
                     </FooterLink>
                     <FooterLink href="/terms">利用規約</FooterLink>
+                    <FooterLink href="/">お問い合わせ</FooterLink>
                 </div>
                 <p className="text-center mt-4 text-gray-600 dark:text-gray-400">
                     © {new Date().getFullYear()} IT企業の採用HP/技術ブログ一覧.
