@@ -1,19 +1,14 @@
 import ClientSearch from '@/app/components/ClientSearch';
-import Footer from '@/app/components/Footer';
 import { getCompanies } from '@/app/lib/getCompanies';
 
 const Home = () => {
     const companies = getCompanies();
 
     return (
-        <div className="bg-white dark:bg-gray-900 min-h-screen">
-            <div className="container mx-auto px-4 py-8">
-                <h1 className="text-3xl font-bold text-gray-900 dark:text-white mb-8">
-                    IT企業の採用HP/技術ブログ一覧
-                </h1>
+        <div className="bg-white shadow-md rounded-lg">
+            <div className="px-4 sm:px-6 lg:px-8 py-8">
                 <ClientSearch initialCompanies={companies} />
             </div>
-            <Footer />
         </div>
     );
 };

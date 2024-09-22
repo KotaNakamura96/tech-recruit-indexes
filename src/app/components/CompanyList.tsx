@@ -12,7 +12,7 @@ const CompanyList = ({ companies }: CompanyListProps) => {
                     <CompanyCard key={company.id} company={company} />
                 ))}
             </div>
-            <p className="mt-8 text-gray-600 dark:text-gray-400">
+            <p className="mt-8 text-gray-600">
                 表示中の企業数: {companies.length}件
             </p>
         </div>
@@ -21,19 +21,17 @@ const CompanyList = ({ companies }: CompanyListProps) => {
 
 const CompanyCard = ({ company }: { company: Company }) => {
     return (
-        <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md p-6">
-            <h2 className="text-xl font-semibold text-gray-900 dark:text-white mb-2">
+        <div className="bg-white rounded-lg shadow-md p-6 border border-gray-200">
+            <h2 className="text-xl font-semibold text-gray-800 mb-2">
                 {company.name}
             </h2>
-            <p className="text-gray-600 dark:text-gray-300 mb-4">
-                {company.industry}
-            </p>
+            <p className="text-gray-600 mb-4">{company.industry}</p>
             <div className="flex space-x-4">
                 <a
                     href={company.careerPageUrl}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="text-green-600 dark:text-green-400 hover:underline"
+                    className="text-blue-600 hover:underline"
                 >
                     採用情報 ↗︎
                 </a>
@@ -41,7 +39,7 @@ const CompanyCard = ({ company }: { company: Company }) => {
                     href={company.techBlogUrl}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="text-blue-600 dark:text-blue-400 hover:underline"
+                    className="text-green-600 hover:underline"
                 >
                     テックブログ ↗︎
                 </a>
