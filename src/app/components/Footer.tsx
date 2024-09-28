@@ -11,7 +11,12 @@ const Footer = () => {
                         プライバシーポリシー
                     </FooterLink>
                     <FooterLink href="/terms">利用規約</FooterLink>
-                    <FooterLink href="/">お問い合わせ</FooterLink>
+                    <FooterLink
+                        href="https://docs.google.com/forms/d/e/1FAIpQLSeACciTw0UDG9PQt-L-bAXA8tx64B-ynkOcFzxOHRFT9BEzcA/viewform"
+                        external={true}
+                    >
+                        お問い合わせ
+                    </FooterLink>
                 </div>
                 <p
                     className={`text-center mt-4 text-gray-600 text-sm ${inter.className}`}
@@ -27,10 +32,24 @@ const Footer = () => {
 const FooterLink = ({
     href,
     children,
+    external = false,
 }: {
     href: string;
     children: React.ReactNode;
+    external?: boolean;
 }) => {
+    if (external) {
+        return (
+            <a
+                href={href}
+                className="text-gray-600 hover:text-gray-900 text-sm"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                {children}
+            </a>
+        );
+    }
     return (
         <Link href={href} className="text-gray-600 hover:text-gray-900 text-sm">
             {children}
