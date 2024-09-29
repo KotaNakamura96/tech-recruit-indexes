@@ -1,5 +1,4 @@
 import Link from 'next/link';
-import { poppins } from '@/app/layout';
 
 const Header = () => {
     return (
@@ -8,9 +7,7 @@ const Header = () => {
                 <div className="flex items-center justify-between">
                     <Link href="/" className="block">
                         <div>
-                            <h1
-                                className={`${poppins.className} text-2xl sm:text-3xl font-bold text-gray-800`}
-                            >
+                            <h1 className="text-2xl sm:text-3xl font-bold text-gray-800">
                                 IT企業情報
                             </h1>
                             <p className="mt-1 text-gray-600 text-sm">

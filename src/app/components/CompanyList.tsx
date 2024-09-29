@@ -26,14 +26,23 @@ const CompanyCard = ({ company }: { company: Company }) => {
                 {company.name}
             </h2>
             <div className="flex space-x-4">
-                <a
-                    href={company.recruitPageUrl}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-blue-600 hover:underline"
-                >
-                    採用情報 ↗︎
-                </a>
+                {company.recruitPageUrl ? (
+                    <a
+                        href={company.recruitPageUrl}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-blue-600 hover:underline"
+                    >
+                        採用情報 ↗︎
+                    </a>
+                ) : (
+                    <span
+                        className="text-gray-400 cursor-not-allowed"
+                        title="採用情報は現在利用できません"
+                    >
+                        採用情報
+                    </span>
+                )}
                 <a
                     href={company.techBlogUrl}
                     target="_blank"

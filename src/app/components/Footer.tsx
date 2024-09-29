@@ -1,5 +1,4 @@
 import Link from 'next/link';
-import { inter } from '@/app/layout';
 
 const Footer = () => {
     return (
@@ -18,9 +17,7 @@ const Footer = () => {
                         お問い合わせ
                     </FooterLink>
                 </div>
-                <p
-                    className={`text-center mt-4 text-gray-600 text-sm ${inter.className}`}
-                >
+                <p className="text-center mt-4 text-gray-600 text-sm">
                     © {new Date().getFullYear()} IT企業の採用HP/技術ブログ一覧.
                     All rights reserved.
                 </p>
