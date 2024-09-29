@@ -1,7 +1,6 @@
 export interface Company {
     id: number;
     name: string;
-    industry: string;
-    careerPageUrl: string;
+    recruitPageUrl: string;
     techBlogUrl: string;
 }

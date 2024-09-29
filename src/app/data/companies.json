@@ -2,24 +2,357 @@
     "companies": [
         {
             "id": 1,
-            "name": "テックイノベーション株式会社",
-            "industry": "AI・機械学習",
-            "careerPageUrl": "https://example.com/techinnovation/careers",
-            "techBlogUrl": "https://example.com/techinnovation/tech-blog"
+            "name": "ABEJA",
+            "recruitPageUrl": "https://careers.abejainc.com/",
+            "techBlogUrl": "https://tech-blog.abeja.asia"
         },
         {
             "id": 2,
-            "name": "サイバーソリューションズ株式会社",
-            "industry": "クラウドサービス",
-            "careerPageUrl": "https://example.com/cybersolutions/careers",
-            "techBlogUrl": "https://example.com/cybersolutions/tech-blog"
+            "name": "ACES",
+            "recruitPageUrl": "https://acesinc.co.jp/careers",
+            "techBlogUrl": "https://tech.acesinc.co.jp"
         },
         {
             "id": 3,
-            "name": "デジタルフロンティア株式会社",
-            "industry": "IoT・組み込みシステム",
-            "careerPageUrl": "https://example.com/digitalfrontier/careers",
-            "techBlogUrl": "https://example.com/digitalfrontier/tech-blog"
+            "name": "Acroquest Technology",
+            "recruitPageUrl": "https://www.wantedly.com/companies/acroquest/projects/",
+            "techBlogUrl": "https://acro-engineer.hatenablog.com"
+        },
+        {
+            "id": 4,
+            "name": "Adways",
+            "recruitPageUrl": "https://www.adways.net/career/",
+            "techBlogUrl": "https://blog.engineer.adways.net"
+        },
+        {
+            "id": 5,
+            "name": "AI inside",
+            "recruitPageUrl": "https://inside.ai/career/",
+            "techBlogUrl": "https://note.com/aiinside_tech"
+        },
+        {
+            "id": 6,
+            "name": "AI Shift",
+            "recruitPageUrl": null,
+            "techBlogUrl": "https://www.ai-shift.co.jp/techblog"
+        },
+        {
+            "id": 7,
+            "name": "Aiming",
+            "recruitPageUrl": "https://recruit.aiming-inc.com/",
+            "techBlogUrl": "https://developer.aiming-inc.com/"
+        },
+        {
+            "id": 8,
+            "name": "AIREV",
+            "recruitPageUrl": null,
+            "techBlogUrl": "https://zenn.dev/airev"
+        },
+        {
+            "id": 9,
+            "name": "Algomatic",
+            "recruitPageUrl": "https://jobs.algomatic.jp/",
+            "techBlogUrl": "https://tech.algomatic.jp"
+        },
+        {
+            "id": 10,
+            "name": "ANDPAD",
+            "recruitPageUrl": "https://andpad.co.jp/recruit/",
+            "techBlogUrl": "https://tech.andpad.co.jp"
+        },
+        {
+            "id": 11,
+            "name": "AppBrew",
+            "recruitPageUrl": "https://appbrew.io/careers/",
+            "techBlogUrl": "https://tech.appbrew.io"
+        },
+        {
+            "id": 12,
+            "name": "ARIGATOBANK",
+            "recruitPageUrl": "https://www.wantedly.com/companies/arigatobank/stories",
+            "techBlogUrl": "https://medium.com/arigatobank-tech-blog"
+        },
+        {
+            "id": 13,
+            "name": "AsiaQuest",
+            "recruitPageUrl": "https://herp.careers/v1/asiaquest",
+            "techBlogUrl": "https://techblog.asia-quest.jp/"
+        },
+        {
+            "id": 14,
+            "name": "Assured",
+            "recruitPageUrl": "https://careers.assured.jp/",
+            "techBlogUrl": "https://tech.assured.jp"
+        },
+        {
+            "id": 15,
+            "name": "atama plus",
+            "recruitPageUrl": "https://corp.atama.plus/recruit/",
+            "techBlogUrl": "https://zenn.dev/p/atamaplus"
+        },
+        {
+            "id": 16,
+            "name": "aumo",
+            "recruitPageUrl": "https://checkered-mongoose-c13.notion.site/b3bad24e38e744db9a4a006481ff9f32",
+            "techBlogUrl": "https://techblog.aumo.co.jp"
+        },
+        {
+            "id": 17,
+            "name": "auカブコム証券",
+            "recruitPageUrl": "https://career.kabu.com/index.html",
+            "techBlogUrl": "https://engineering.kabu.com"
+        },
+        {
+            "id": 18,
+            "name": "auコマース＆ライフ",
+            "recruitPageUrl": "https://hr.au-cl.co.jp/",
+            "techBlogUrl": "https://kcf-developers.hatenablog.jp"
+        },
+        {
+            "id": 19,
+            "name": "Axelspace",
+            "recruitPageUrl": "https://www.axelspace.com/careers/",
+            "techBlogUrl": "https://zenn.dev/p/axelspace"
+        },
+        {
+            "id": 20,
+            "name": "Babel",
+            "recruitPageUrl": "https://jobs.babel.jp/",
+            "techBlogUrl": "https://dev.babel.jp"
+        },
+        {
+            "id": 21,
+            "name": "BABYJOB",
+            "recruitPageUrl": "https://speakerdeck.com/babyjob/company-deck-for-engineers",
+            "techBlogUrl": "https://zenn.dev/p/babyjob"
+        },
+        {
+            "id": 22,
+            "name": "BASE",
+            "recruitPageUrl": "https://binc.jp/jobs",
+            "techBlogUrl": "https://devblog.thebase.in"
+        },
+        {
+            "id": 23,
+            "name": "Baseconnect",
+            "recruitPageUrl": "https://speakerdeck.com/baseconnect/engineering-recruit-book",
+            "techBlogUrl": "https://techblog.baseconnect.in"
+        },
+        {
+            "id": 24,
+            "name": "Basicinc",
+            "recruitPageUrl": "https://recruit.basicinc.jp/",
+            "techBlogUrl": "https://tech.basicinc.jp"
+        },
+        {
+            "id": 25,
+            "name": "Beatrust",
+            "recruitPageUrl": "https://beatrust.com/careers",
+            "techBlogUrl": "https://tech.beatrust.com"
+        },
+        {
+            "id": 26,
+            "name": "BEENOS",
+            "recruitPageUrl": "https://beenos.com/recruit/",
+            "techBlogUrl": "https://zenn.dev/beenos"
+        },
+        {
+            "id": 27,
+            "name": "Berry",
+            "recruitPageUrl": "https://www.wantedly.com/projects/1594426",
+            "techBlogUrl": "https://zenn.dev/p/berry_blog"
+        },
+        {
+            "id": 28,
+            "name": "BFT名古屋",
+            "recruitPageUrl": "https://www.bfts.co.jp/recruit/",
+            "techBlogUrl": "https://bftnagoya.hateblo.jp"
+        },
+        {
+            "id": 29,
+            "name": "BIGLOBE",
+            "recruitPageUrl": "https://www.biglobe.co.jp/recruit",
+            "techBlogUrl": "https://style.biglobe.co.jp/archive/category/TechBlog"
+        },
+        {
+            "id": 30,
+            "name": "BrainPad",
+            "recruitPageUrl": "https://www.brainpad.co.jp/recruit/",
+            "techBlogUrl": "https://blog.brainpad.co.jp"
+        },
+        {
+            "id": 31,
+            "name": "BuySell Technologies",
+            "recruitPageUrl": "https://buysell-technologies.com/recruit/engineer/",
+            "techBlogUrl": "https://tech.buysell-technologies.com/"
+        },
+        {
+            "id": 32,
+            "name": "CADDi",
+            "recruitPageUrl": "https://caddi.com/ja-jp/careers/",
+            "techBlogUrl": "https://caddi.tech"
+        },
+        {
+            "id": 33,
+            "name": "CAMPFIRE",
+            "recruitPageUrl": "https://campfire.co.jp/careers/",
+            "techBlogUrl": "https://note.com/campfire_dev"
+        },
+        {
+            "id": 34,
+            "name": "CARTA",
+            "recruitPageUrl": "https://cartaholdings.co.jp/engineering/",
+            "techBlogUrl": "https://techblog.cartaholdings.co.jp"
+        },
+        {
+            "id": 35,
+            "name": "CastingONE",
+            "recruitPageUrl": "https://casting-one.jp/recruit/engineer/",
+            "techBlogUrl": "https://zenn.dev/p/castingone_dev"
+        },
+        {
+            "id": 36,
+            "name": "CauchyE",
+            "recruitPageUrl": null,
+            "techBlogUrl": "https://zenn.dev/cauchye"
+        },
+        {
+            "id": 37,
+            "name": "CCCMKホールディングス",
+            "recruitPageUrl": "https://www.cccmkhd.co.jp/recruit/",
+            "techBlogUrl": "https://techblog.cccmkhd.co.jp"
+        },
+        {
+            "id": 38,
+            "name": "CData Software",
+            "recruitPageUrl": "https://www.cdata.com/jp/company/careers/?region=jp",
+            "techBlogUrl": "https://www.cdatablog.jp"
+        },
+        {
+            "id": 39,
+            "name": "Cerevo",
+            "recruitPageUrl": "https://cerevo.com/careers",
+            "techBlogUrl": "https://tech-blog.cerevo.com/"
+        },
+        {
+            "id": 40,
+            "name": "Chatwork",
+            "recruitPageUrl": "https://www.kubell.com/recruit/",
+            "techBlogUrl": "https://creators-note.chatwork.com"
+        },
+        {
+            "id": 41,
+            "name": "CHUGAI DIGITAL",
+            "recruitPageUrl": "https://www.chugai-pharm.co.jp/recruit/new/index.html",
+            "techBlogUrl": "https://note.chugai-pharm.co.jp/m/mdaeaf24de472"
+        },
+        {
+            "id": 42,
+            "name": "Classi",
+            "recruitPageUrl": "https://corp.classi.jp/careers/",
+            "techBlogUrl": "https://tech.classi.jp"
+        },
+        {
+            "id": 43,
+            "name": "cloud.config",
+            "recruitPageUrl": "https://www.fixer.co.jp/recruit/",
+            "techBlogUrl": "https://tech-blog.cloud-config.jp/"
+        },
+        {
+            "id": 44,
+            "name": "Cluster",
+            "recruitPageUrl": "https://recruit.cluster.mu/engineer/",
+            "techBlogUrl": "https://tech-blog.cluster.mu"
+        },
+        {
+            "id": 45,
+            "name": "CoeFont",
+            "recruitPageUrl": "https://www.coefont.com/Recruit/",
+            "techBlogUrl": "https://zenn.dev/p/coefont"
+        },
+        {
+            "id": 46,
+            "name": "Colorful Palette",
+            "recruitPageUrl": "https://colorfulpalette.co.jp/recruit/",
+            "techBlogUrl": "https://media.colorfulpalette.co.jp/m/m753f507dae79"
+        },
+        {
+            "id": 47,
+            "name": "COMPASS",
+            "recruitPageUrl": "https://hrmos.co/pages/qubena",
+            "techBlogUrl": "https://zenn.dev/p/qubena"
+        },
+        {
+            "id": 48,
+            "name": "ContractS",
+            "recruitPageUrl": "https://recruit.jobcan.jp/holmes/",
+            "techBlogUrl": "https://tech.contracts.co.jp"
+        },
+        {
+            "id": 49,
+            "name": "COOSY",
+            "recruitPageUrl": "https://coosy.co.jp/recruit/",
+            "techBlogUrl": "https://coosy.co.jp/blog/category/web-development/"
+        },
+        {
+            "id": 50,
+            "name": "CROOZ",
+            "recruitPageUrl": "https://crooz.co.jp/recruit/",
+            "techBlogUrl": "https://croozblog.hatenablog.com"
+        },
+        {
+            "id": 51,
+            "name": "CryptoGames",
+            "recruitPageUrl": "https://cryptogames.co.jp/recruit",
+            "techBlogUrl": "https://zenn.dev/p/cryptogames"
+        },
+        {
+            "id": 52,
+            "name": "CULTA",
+            "recruitPageUrl": "https://culta.notion.site/CULTA-9f68f16e999747519357b01ce2d26db4",
+            "techBlogUrl": "https://techblog.culta.jp"
+        },
+        {
+            "id": 53,
+            "name": "CyberZ",
+            "recruitPageUrl": "https://cyber-z.co.jp/recruit",
+            "techBlogUrl": "https://note.com/cyberz_cto"
+        },
+        {
+            "id": 54,
+            "name": "DATAFLUCT",
+            "recruitPageUrl": "https://datafluct.com/",
+            "techBlogUrl": "https://tech.datafluct.com"
+        },
+        {
+            "id": 55,
+            "name": "dely",
+            "recruitPageUrl": "https://dely.jp/careers/job-list",
+            "techBlogUrl": "https://tech.dely.jp"
+        },
+        {
+            "id": 56,
+            "name": "DeNA",
+            "recruitPageUrl": "https://dena.com/jp/recruit/",
+            "techBlogUrl": "https://engineering.dena.com/blog/"
+        },
+        {
+            "id": 57,
+            "name": "DeNA SWET",
+            "recruitPageUrl": "https://dena.com/jp/recruit/",
+            "techBlogUrl": "https://swet.dena.com"
+        },
+        {
+            "id": 58,
+            "name": "DeNA(Zenn Publication)",
+            "recruitPageUrl": "https://dena.com/jp/recruit/",
+            "techBlogUrl": "https://zenn.dev/p/dena"
+        },
+        {
+            "id": 59,
+            "name": "Dentsu Digital",
+            "recruitPageUrl": "https://www.dentsudigital.co.jp/careers",
+            "techBlogUrl": "https://note.com/dd_techblog"
         }
     ]
 }

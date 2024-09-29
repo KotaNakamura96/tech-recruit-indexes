@@ -25,10 +25,9 @@ const CompanyCard = ({ company }: { company: Company }) => {
             <h2 className="text-xl font-semibold text-gray-800 mb-2">
                 {company.name}
             </h2>
-            <p className="text-gray-600 mb-4">{company.industry}</p>
             <div className="flex space-x-4">
                 <a
-                    href={company.careerPageUrl}
+                    href={company.recruitPageUrl}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-blue-600 hover:underline"
