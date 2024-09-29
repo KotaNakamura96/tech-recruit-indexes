@@ -13,10 +13,8 @@ const ClientSearch = ({ initialCompanies }: ClientSearchProps) => {
     const [companies, setCompanies] = useState(initialCompanies);
 
     const handleSearch = (query: string) => {
-        const filteredCompanies = initialCompanies.filter(
-            (company) =>
-                company.name.toLowerCase().includes(query.toLowerCase()) ||
-                company.industry.toLowerCase().includes(query.toLowerCase())
+        const filteredCompanies = initialCompanies.filter((company) =>
+            company.name.toLowerCase().includes(query.toLowerCase())
         );
         setCompanies(filteredCompanies);
     };
