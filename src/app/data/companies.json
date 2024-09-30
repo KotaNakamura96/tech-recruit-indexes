@@ -344,15 +344,261 @@
         },
         {
             "id": 58,
-            "name": "DeNA(Zenn Publication)",
-            "recruitPageUrl": "https://dena.com/jp/recruit/",
-            "techBlogUrl": "https://zenn.dev/p/dena"
-        },
-        {
-            "id": 59,
             "name": "Dentsu Digital",
             "recruitPageUrl": "https://www.dentsudigital.co.jp/careers",
             "techBlogUrl": "https://note.com/dd_techblog"
+        },
+        {
+            "id": 59,
+            "name": "dip",
+            "recruitPageUrl": "https://recruit-dip.com/career/development/",
+            "techBlogUrl": "https://developer.dip-net.co.jp"
+        },
+        {
+            "id": 60,
+            "name": "Diverse",
+            "recruitPageUrl": "https://diverse-inc.co.jp/recruit",
+            "techBlogUrl": "https://developer.diverse-inc.com"
+        },
+        {
+            "id": 61,
+            "name": "DROBE",
+            "recruitPageUrl": "https://info.drobe.co.jp/jobs",
+            "techBlogUrl": "https://tech.drobe.co.jp"
+        },
+        {
+            "id": 62,
+            "name": "DTダイナミクス",
+            "recruitPageUrl": "https://dt-dynamics.com/",
+            "techBlogUrl": "https://techblog.dt-dynamics.com"
+        },
+        {
+            "id": 63,
+            "name": "ecbeing",
+            "recruitPageUrl": "https://careers.ecbeing.tech/",
+            "techBlogUrl": "https://blog.ecbeing.tech"
+        },
+        {
+            "id": 64,
+            "name": "efoo",
+            "recruitPageUrl": null,
+            "techBlogUrl": "https://efoo.hatenablog.com"
+        },
+        {
+            "id": 65,
+            "name": "ELYZA",
+            "recruitPageUrl": "https://open.talentio.com/r/1/c/elyza/homes/2507",
+            "techBlogUrl": "https://elyza-inc.hatenablog.com"
+        },
+        {
+            "id": 66,
+            "name": "Emotion Tech",
+            "recruitPageUrl": "https://careers.emotion-tech.co.jp/",
+            "techBlogUrl": "https://tech.emotion-tech.co.jp"
+        },
+        {
+            "id": 67,
+            "name": "ENECHANGE",
+            "recruitPageUrl": "https://engineer-recruit.enechange.co.jp/",
+            "techBlogUrl": "https://tech.enechange.co.jp"
+        },
+        {
+            "id": 68,
+            "name": "estie",
+            "recruitPageUrl": "https://www.estie.jp/careers/",
+            "techBlogUrl": "https://www.estie.jp/blog/archive/category/technology"
+        },
+        {
+            "id": 69,
+            "name": "Eureka",
+            "recruitPageUrl": "https://career.pairs.lv/",
+            "techBlogUrl": "https://medium.com/eureka-engineering"
+        },
+        {
+            "id": 70,
+            "name": "ＦＦＲＩセキュリティ",
+            "recruitPageUrl": "https://www.ffri.jp/recruit",
+            "techBlogUrl": "https://engineers.ffri.jp"
+        },
+        {
+            "id": 71,
+            "name": "Filot",
+            "recruitPageUrl": "https://www.filot.co.jp/recruit",
+            "techBlogUrl": "https://filot-nextd2.hatenablog.com"
+        },
+        {
+            "id": 72,
+            "name": "Finatext",
+            "recruitPageUrl": "https://hd.finatext.com/recruit/",
+            "techBlogUrl": "https://medium.com/finatext"
+        },
+        {
+            "id": 73,
+            "name": "FiNC",
+            "recruitPageUrl": null,
+            "techBlogUrl": "https://medium.com/finc-engineering"
+        },
+        {
+            "id": 74,
+            "name": "Findy",
+            "recruitPageUrl": "https://careers.findy.co.jp/",
+            "techBlogUrl": "https://tech.findy.co.jp"
+        },
+        {
+            "id": 75,
+            "name": "Flatt Security",
+            "recruitPageUrl": "https://recruit.flatt.tech/",
+            "techBlogUrl": "https://blog.flatt.tech"
+        },
+        {
+            "id": 76,
+            "name": "FLINTERS",
+            "recruitPageUrl": "https://www.flinters.co.jp/recruit",
+            "techBlogUrl": "https://blog.flinters.co.jp"
+        },
+        {
+            "id": 77,
+            "name": "FLYWHEEL",
+            "recruitPageUrl": "https://www.flywheel.jp/careers/",
+            "techBlogUrl": "https://www.flywheel.jp/topics-tag/tech/"
+        },
+        {
+            "id": 78,
+            "name": "for Startups",
+            "recruitPageUrl": "https://www.forstartups.com/careers",
+            "techBlogUrl": "https://tech.forstartups.com"
+        },
+        {
+            "id": 79,
+            "name": "Fracton",
+            "recruitPageUrl": null,
+            "techBlogUrl": "https://tech.fracton.ventures"
+        },
+        {
+            "id": 80,
+            "name": "freee",
+            "recruitPageUrl": "https://jobs.freee.co.jp/engineers/",
+            "techBlogUrl": "https://developers.freee.co.jp"
+        },
+        {
+            "id": 81,
+            "name": "fuku",
+            "recruitPageUrl": null,
+            "techBlogUrl": "https://blog.fuku-inc.com"
+        },
+        {
+            "id": 82,
+            "name": "Fusic",
+            "recruitPageUrl": "https://fusic.co.jp/recruit/positions",
+            "techBlogUrl": "https://tech.fusic.co.jp/"
+        },
+        {
+            "id": 83,
+            "name": "G-gen",
+            "recruitPageUrl": null,
+            "techBlogUrl": "https://blog.g-gen.co.jp"
+        },
+        {
+            "id": 84,
+            "name": "Game Server Services",
+            "recruitPageUrl": "https://gs2.io/recruit.html",
+            "techBlogUrl": "https://gs2.hatenablog.com"
+        },
+        {
+            "id": 85,
+            "name": "GameWith",
+            "recruitPageUrl": "https://recruit.gamewith.co.jp/",
+            "techBlogUrl": "https://tech.gamewith.co.jp"
+        },
+        {
+            "id": 86,
+            "name": "gaudiy",
+            "recruitPageUrl": "https://site.gaudiy.com/recruit/engineer",
+            "techBlogUrl": "https://techblog.gaudiy.com"
+        },
+        {
+            "id": 87,
+            "name": "Gemcook",
+            "recruitPageUrl": null,
+            "techBlogUrl": "https://zenn.dev/p/gemcook"
+        },
+        {
+            "id": 88,
+            "name": "Generative Agents",
+            "recruitPageUrl": null,
+            "techBlogUrl": "https://blog.generative-agents.co.jp"
+        },
+        {
+            "id": 89,
+            "name": "GIBJapan",
+            "recruitPageUrl": null,
+            "techBlogUrl": "https://zenn.dev/p/gibjapan"
+        },
+        {
+            "id": 90,
+            "name": "GiftX",
+            "recruitPageUrl": null,
+            "techBlogUrl": "https://zenn.dev/p/giftx_blog"
+        },
+        {
+            "id": 91,
+            "name": "GMOアドパートナーズ",
+            "recruitPageUrl": "https://recruit.gmo-ap.jp/",
+            "techBlogUrl": "https://techblog.gmo-ap.jp/"
+        },
+        {
+            "id": 92,
+            "name": "GMOインターネット",
+            "recruitPageUrl": "https://recruit.gmo.jp/careers/",
+            "techBlogUrl": "https://developers.gmo.jp/"
+        },
+        {
+            "id": 93,
+            "name": "GMOグループ研究開発本部",
+            "recruitPageUrl": "https://recruit.gmo.jp/engineer/jisedai/entry/",
+            "techBlogUrl": "https://recruit.gmo.jp/engineer/jisedai/blog/"
+        },
+        {
+            "id": 94,
+            "name": "GMOグローバルサイン・ホールディングス",
+            "recruitPageUrl": "https://www.globalsign.co.jp/recruit/career/",
+            "techBlogUrl": "https://tech.gmogshd.com/"
+        },
+        {
+            "id": 95,
+            "name": "GMOペパボ",
+            "recruitPageUrl": "https://recruit.pepabo.com/?_gl=1*6pp23a*_ga*MjAwODE1MTYxMC4xNzI3NzA0MDI0*_ga_LER6JRTV8K*MTcyNzcwNDAyNC4xLjEuMTcyNzcwNDAyOC4wLjAuMA..",
+            "techBlogUrl": "https://tech.pepabo.com"
+        },
+        {
+            "id": 96,
+            "name": "GMOメイクショップ",
+            "recruitPageUrl": "https://www.makeshop.co.jp/recruit/",
+            "techBlogUrl": "https://tech.makeshop.co.jp"
+        },
+        {
+            "id": 97,
+            "name": "GMOリサーチ",
+            "recruitPageUrl": "https://gmo-research.ai/recruit",
+            "techBlogUrl": "https://gmor-sys.com/"
+        },
+        {
+            "id": 98,
+            "name": "GO",
+            "recruitPageUrl": "https://goinc.jp/career/",
+            "techBlogUrl": "https://techblog.goinc.jp"
+        },
+        {
+            "id": 99,
+            "name": "Goodpatch",
+            "recruitPageUrl": "https://goodpatch.com/careers",
+            "techBlogUrl": "https://goodpatch-tech.hatenablog.com"
+        },
+        {
+            "id": 100,
+            "name": "Google",
+            "recruitPageUrl": "https://www.google.com/about/careers/applications/how-we-hire/?hl=ja_jp",
+            "techBlogUrl": "https://developers-jp.googleblog.com/"
         }
     ]
 }
