@@ -599,6 +599,306 @@
             "name": "Google",
             "recruitPageUrl": "https://www.google.com/about/careers/applications/how-we-hire/?hl=ja_jp",
             "techBlogUrl": "https://developers-jp.googleblog.com/"
+        },
+        {
+            "id": 101,
+            "name": "Google Cloud Japan",
+            "recruitPageUrl": "https://www.google.com/about/careers/applications/cloud?hl=JA",
+            "techBlogUrl": "https://zenn.dev/p/google_cloud_jp"
+        },
+        {
+            "id": 102,
+            "name": "GREE",
+            "recruitPageUrl": "https://corp.gree.net/jp/ja/recruit/#career",
+            "techBlogUrl": "https://labs.gree.jp/blog/"
+        },
+        {
+            "id": 103,
+            "name": "GreenSnap",
+            "recruitPageUrl": "https://www.green-japan.com/company/5384",
+            "techBlogUrl": "https://greensnap-tech.hatenablog.com"
+        },
+        {
+            "id": 104,
+            "name": "GRIPHONE",
+            "recruitPageUrl": null,
+            "techBlogUrl": "https://tech.griphone.co.jp/"
+        },
+        {
+            "id": 105,
+            "name": "Grooves",
+            "recruitPageUrl": "https://www.grooves.com/recruit",
+            "techBlogUrl": "https://tech.grooves.com"
+        },
+        {
+            "id": 106,
+            "name": "GROWTH VERSE",
+            "recruitPageUrl": "https://growth-verse.ai/careers/",
+            "techBlogUrl": "https://growth-verse.hatenablog.jp"
+        },
+        {
+            "id": 107,
+            "name": "Gunosy",
+            "recruitPageUrl": "https://gunosy.co.jp/recruit/requirements/engineer",
+            "techBlogUrl": "https://tech.gunosy.io"
+        },
+        {
+            "id": 108,
+            "name": "hacomono",
+            "recruitPageUrl": "https://www.hacomono.co.jp/recruit/engineer/",
+            "techBlogUrl": "https://techblog.hacomono.jp"
+        },
+        {
+            "id": 109,
+            "name": "Hajimari",
+            "recruitPageUrl": "https://hajimari.inc/recruit",
+            "techBlogUrl": "https://tech.hajimari.inc"
+        },
+        {
+            "id": 110,
+            "name": "HashPort",
+            "recruitPageUrl": "https://hashport.io/recruit/",
+            "techBlogUrl": "https://tech.hashport.io/"
+        },
+        {
+            "id": 111,
+            "name": "HEROZ",
+            "recruitPageUrl": "https://heroz.co.jp/recruit/",
+            "techBlogUrl": "https://heroz-tech.hatenablog.jp"
+        },
+        {
+            "id": 112,
+            "name": "HERP",
+            "recruitPageUrl": "https://careers.herp.co.jp/",
+            "techBlogUrl": "https://tech-hub.herp.co.jp/"
+        },
+        {
+            "id": 113,
+            "name": "HireRoo",
+            "recruitPageUrl": "https://hireroo.io/career",
+            "techBlogUrl": "https://hireroo.io/journal/tech"
+        },
+        {
+            "id": 114,
+            "name": "HiTalent",
+            "recruitPageUrl": "https://hitalent.co.jp/career/",
+            "techBlogUrl": "https://medium.com/@hitalent"
+        },
+        {
+            "id": 115,
+            "name": "HRBrain",
+            "recruitPageUrl": "https://www.hrbrain.co.jp/recruit/",
+            "techBlogUrl": "https://times.hrbrain.co.jp"
+        },
+        {
+            "id": 116,
+            "name": "i-Vinci",
+            "recruitPageUrl": "https://www.i-vinci.co.jp/recruit",
+            "techBlogUrl": "https://www.i-vinci.co.jp/techblog"
+        },
+        {
+            "id": 117,
+            "name": "iCARE",
+            "recruitPageUrl": "https://www.icare-carely.co.jp/recruit",
+            "techBlogUrl": "https://dev.icare.jpn.com/"
+        },
+        {
+            "id": 118,
+            "name": "iChain",
+            "recruitPageUrl": "https://www.ichain.co.jp/",
+            "techBlogUrl": "https://ichain.hatenablog.com"
+        },
+        {
+            "id": 119,
+            "name": "IDCフロンティア",
+            "recruitPageUrl": "https://www.idcf.jp/recruit/",
+            "techBlogUrl": "https://blog.idcf.jp"
+        },
+        {
+            "id": 120,
+            "name": "IIJ",
+            "recruitPageUrl": "https://www.iij.ad.jp/recruit/career/",
+            "techBlogUrl": "https://eng-blog.iij.ad.jp"
+        },
+        {
+            "id": 121,
+            "name": "iimon",
+            "recruitPageUrl": "https://recruit.iimon.co.jp/",
+            "techBlogUrl": "https://tech.iimon.co.jp"
+        },
+        {
+            "id": 122,
+            "name": "Insight Edge",
+            "recruitPageUrl": "https://recruit.insightedge.jp/",
+            "techBlogUrl": "https://techblog.insightedge.jp"
+        },
+        {
+            "id": 123,
+            "name": "intage",
+            "recruitPageUrl": "https://www.intage-technosphere.co.jp/recruit/",
+            "techBlogUrl": "https://www.intage-ts.com"
+        },
+        {
+            "id": 124,
+            "name": "ispec",
+            "recruitPageUrl": "https://ispec.notion.site/3bb5e3d2ce6f40ebb60b7cb49a2f821e",
+            "techBlogUrl": "https://zenn.dev/p/ispec_inc"
+        },
+        {
+            "id": 125,
+            "name": "IVRy",
+            "recruitPageUrl": "https://ivry-jp.notion.site/IVRy-e1d47e4a79ba4f9d8a891fc938e02271",
+            "techBlogUrl": "https://zenn.dev/p/ivry"
+        },
+        {
+            "id": 126,
+            "name": "JCB",
+            "recruitPageUrl": "https://www.saiyo.jcb.co.jp/careerrecruit/special/index.html",
+            "techBlogUrl": "https://tech.jcblab.jp"
+        },
+        {
+            "id": 127,
+            "name": "jig.jp",
+            "recruitPageUrl": "https://www.jig.jp/recruit",
+            "techBlogUrl": "https://note.com/jigjp_engineer"
+        },
+        {
+            "id": 128,
+            "name": "JMDC",
+            "recruitPageUrl": "https://www.jmdc.co.jp/recruit/",
+            "techBlogUrl": "https://techblog.jmdc.co.jp"
+        },
+        {
+            "id": 129,
+            "name": "JTP",
+            "recruitPageUrl": "https://www.jtp.co.jp/recruitment/",
+            "techBlogUrl": "https://tech-blog.jtp.co.jp"
+        },
+        {
+            "id": 130,
+            "name": "justInCaseTechnologies",
+            "recruitPageUrl": "https://justincase.jp/careers",
+            "techBlogUrl": "https://jict.hatenablog.com"
+        },
+        {
+            "id": 131,
+            "name": "JX通信社",
+            "recruitPageUrl": "https://jxpress.net/recruit/",
+            "techBlogUrl": "https://tech.jxpress.net"
+        },
+        {
+            "id": 132,
+            "name": "KAIZEN PLATFORM",
+            "recruitPageUrl": "https://recruit.kaizenplatform.co.jp/",
+            "techBlogUrl": "https://developer.kaizenplatform.com"
+        },
+        {
+            "id": 133,
+            "name": "KARAKURI",
+            "recruitPageUrl": "https://about.karakuri.ai/?page_id=1009",
+            "techBlogUrl": "https://medium.com/karakuri"
+        },
+        {
+            "id": 134,
+            "name": "KDL",
+            "recruitPageUrl": "https://www.kdl.co.jp/recruit/",
+            "techBlogUrl": "https://kdl-di.hatenablog.com"
+        },
+        {
+            "id": 135,
+            "name": "KENTEM",
+            "recruitPageUrl": "https://career.kentem.jp/",
+            "techBlogUrl": "https://tech.kentem.jp"
+        },
+        {
+            "id": 136,
+            "name": "KLab",
+            "recruitPageUrl": "https://www.klab.com/jp/recruit/",
+            "techBlogUrl": "https://www.klab.com/jp/blog/tech/"
+        },
+        {
+            "id": 137,
+            "name": "Kyash",
+            "recruitPageUrl": "https://page.kyash.co/recruit",
+            "techBlogUrl": "https://blog.kyash.co"
+        },
+        {
+            "id": 138,
+            "name": "LAPRAS",
+            "recruitPageUrl": "https://corp.lapras.com/recruit",
+            "techBlogUrl": "https://ai-lab.lapras.com/"
+        },
+        {
+            "id": 139,
+            "name": "LayerX",
+            "recruitPageUrl": "https://jobs.layerx.co.jp/",
+            "techBlogUrl": "https://tech.layerx.co.jp"
+        },
+        {
+            "id": 140,
+            "name": "LCL",
+            "recruitPageUrl": "https://www.lclco.com/recruit/",
+            "techBlogUrl": "https://techblog.lclco.com"
+        },
+        {
+            "id": 141,
+            "name": "Leaner",
+            "recruitPageUrl": "https://careers.leaner.co.jp/",
+            "techBlogUrl": "https://zenn.dev/p/leaner_dev"
+        },
+        {
+            "id": 142,
+            "name": "LegalForce",
+            "recruitPageUrl": "https://recruit.legalontech.jp/",
+            "techBlogUrl": "https://tech.legalforce.co.jp"
+        },
+        {
+            "id": 143,
+            "name": "Legoliss",
+            "recruitPageUrl": "https://legoliss.co.jp/recruit/",
+            "techBlogUrl": "https://blog.legoliss.co.jp"
+        },
+        {
+            "id": 144,
+            "name": "Libra Studio",
+            "recruitPageUrl": null,
+            "techBlogUrl": "https://tech.librastudio.co.jp"
+        },
+        {
+            "id": 145,
+            "name": "LIFULL",
+            "recruitPageUrl": "https://recruit.lifull.com/",
+            "techBlogUrl": "https://www.lifull.blog"
+        },
+        {
+            "id": 146,
+            "name": "LIG",
+            "recruitPageUrl": "https://liginc.co.jp/career-mid",
+            "techBlogUrl": "https://liginc.co.jp/technology"
+        },
+        {
+            "id": 147,
+            "name": "LINEヤフー",
+            "recruitPageUrl": "https://www.lycorp.co.jp/ja/recruit/",
+            "techBlogUrl": "https://techblog.lycorp.co.jp/ja"
+        },
+        {
+            "id": 148,
+            "name": "Liquid",
+            "recruitPageUrl": "https://elementsinc.jp/careers/",
+            "techBlogUrl": "https://tech.liquid.bio"
+        },
+        {
+            "id": 149,
+            "name": "Lisa Technologies",
+            "recruitPageUrl": "https://hyper-sunshine-6c1.notion.site/Lisa-Technologies-Job-Board-f58a33f35de9473bb70c0fd49cdafd8e",
+            "techBlogUrl": "https://zenn.dev/lisatech"
+        },
+        {
+            "id": 150,
+            "name": "LIVESENSE",
+            "recruitPageUrl": "https://recruit.livesense.co.jp/",
+            "techBlogUrl": "https://made.livesense.co.jp"
         }
     ]
 }
