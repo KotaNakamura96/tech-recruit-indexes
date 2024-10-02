@@ -899,6 +899,306 @@
             "name": "LIVESENSE",
             "recruitPageUrl": "https://recruit.livesense.co.jp/",
             "techBlogUrl": "https://made.livesense.co.jp"
+        },
+        {
+            "id": 151,
+            "name": "Luup(Zenn Publication)",
+            "recruitPageUrl": "https://recruit.luup.sc/",
+            "techBlogUrl": "https://zenn.dev/p/luup_developers"
+        },
+        {
+            "id": 152,
+            "name": "M&Aクラウド",
+            "recruitPageUrl": "https://recruit.macloud.jp/",
+            "techBlogUrl": "https://tech.macloud.jp"
+        },
+        {
+            "id": 153,
+            "name": "Mackerel",
+            "recruitPageUrl": "https://hatena.co.jp/recruit/engineer",
+            "techBlogUrl": "https://mackerel.io/ja/blog"
+        },
+        {
+            "id": 154,
+            "name": "Magic Moment",
+            "recruitPageUrl": "https://www.magicmoment.jp/recruit/",
+            "techBlogUrl": "https://zenn.dev/magicmoment"
+        },
+        {
+            "id": 155,
+            "name": "Makuake",
+            "recruitPageUrl": "https://www.makuake.co.jp/corporate-introduction/",
+            "techBlogUrl": "https://note.com/dev_makuake"
+        },
+        {
+            "id": 156,
+            "name": "MESON",
+            "recruitPageUrl": null,
+            "techBlogUrl": "https://zenn.dev/meson"
+        },
+        {
+            "id": 157,
+            "name": "MicroAd",
+            "recruitPageUrl": "https://recruit.microad.co.jp/",
+            "techBlogUrl": "https://developers.microad.co.jp"
+        },
+        {
+            "id": 158,
+            "name": "mikan",
+            "recruitPageUrl": "https://mikan.link/careers",
+            "techBlogUrl": "https://mikan-tech.hatenablog.jp"
+        },
+        {
+            "id": 159,
+            "name": "Mirrativ",
+            "recruitPageUrl": "https://www.mirrativ.co.jp/recruit",
+            "techBlogUrl": "https://tech.mirrativ.stream"
+        },
+        {
+            "id": 160,
+            "name": "MIXI",
+            "recruitPageUrl": "https://mixigroup-recruit.mixi.co.jp/",
+            "techBlogUrl": "https://mixi-developers.mixi.co.jp/"
+        },
+        {
+            "id": 161,
+            "name": "MNTSQ",
+            "recruitPageUrl": "https://careers.mntsq.co.jp/",
+            "techBlogUrl": "https://tech.mntsq.co.jp"
+        },
+        {
+            "id": 162,
+            "name": "mofmof",
+            "recruitPageUrl": "https://www.mof-mof.co.jp/recruit/",
+            "techBlogUrl": "https://www.mof-mof.co.jp/tech-blog/"
+        },
+        {
+            "id": 163,
+            "name": "Money Forward Kessai",
+            "recruitPageUrl": "https://recruit.moneyforward.com/",
+            "techBlogUrl": "https://tech.mfkessai.co.jp/"
+        },
+        {
+            "id": 164,
+            "name": "moze",
+            "recruitPageUrl": null,
+            "techBlogUrl": "https://zenn.dev/p/moze_ai"
+        },
+        {
+            "id": 165,
+            "name": "MUGENUP",
+            "recruitPageUrl": "https://recruit.mugenup.com/",
+            "techBlogUrl": "https://mugenup-tech.hatenadiary.com"
+        },
+        {
+            "id": 166,
+            "name": "mutex",
+            "recruitPageUrl": "https://www.mutex-inc.dev/recruit",
+            "techBlogUrl": "https://www.mutex-inc.dev/"
+        },
+        {
+            "id": 167,
+            "name": "N-Technologies",
+            "recruitPageUrl": "https://atena.inc/ja/careers",
+            "techBlogUrl": "https://zenn.dev/n1nc"
+        },
+        {
+            "id": 168,
+            "name": "N.F.Laboratories",
+            "recruitPageUrl": "https://nflabs.jp/recruit/",
+            "techBlogUrl": "https://blog.nflabs.jp"
+        },
+        {
+            "id": 169,
+            "name": "nana music",
+            "recruitPageUrl": "https://nana-music.co.jp/ja/recruit/",
+            "techBlogUrl": "https://tech.nana-music.com"
+        },
+        {
+            "id": 170,
+            "name": "Nature",
+            "recruitPageUrl": "https://nature.global/careers/",
+            "techBlogUrl": "https://engineering.nature.global"
+        },
+        {
+            "id": 171,
+            "name": "NCDC",
+            "recruitPageUrl": "https://ncdc.recruit-site.biz/",
+            "techBlogUrl": "https://zenn.dev/p/ncdc"
+        },
+        {
+            "id": 172,
+            "name": "NDKCOM",
+            "recruitPageUrl": "https://www.ndkcom.co.jp/recruit/mc_recruitguide/",
+            "techBlogUrl": "https://enqi.hatenablog.jp"
+        },
+        {
+            "id": 173,
+            "name": "NE",
+            "recruitPageUrl": "https://ne-inc.jp/recruit",
+            "techBlogUrl": "https://zenn.dev/p/neinc_tech"
+        },
+        {
+            "id": 174,
+            "name": "Nealle",
+            "recruitPageUrl": "https://jobs.nealle.com/",
+            "techBlogUrl": "https://nealle-dev.hatenablog.com"
+        },
+        {
+            "id": 175,
+            "name": "NearMe",
+            "recruitPageUrl": "https://corp.nearme.jp/jobs/",
+            "techBlogUrl": "https://tech.nearme.jp"
+        },
+        {
+            "id": 176,
+            "name": "NEMTUS",
+            "recruitPageUrl": "https://nemtus.com/become-a-member-of-nemtus/",
+            "techBlogUrl": "https://zenn.dev/nemtus"
+        },
+        {
+            "id": 177,
+            "name": "newmo",
+            "recruitPageUrl": "https://careers.newmo.me/",
+            "techBlogUrl": "https://tech.newmo.me"
+        },
+        {
+            "id": 178,
+            "name": "Nextat",
+            "recruitPageUrl": "https://recruit.nextat.co.jp/",
+            "techBlogUrl": "https://nextat.co.jp/staff/index"
+        },
+        {
+            "id": 179,
+            "name": "NHNテコラス",
+            "recruitPageUrl": "https://nhn-techorus.com/recruit/",
+            "techBlogUrl": "https://techblog.nhn-techorus.com"
+        },
+        {
+            "id": 180,
+            "name": "Nishika",
+            "recruitPageUrl": null,
+            "techBlogUrl": "https://zenn.dev/p/team_nishika"
+        },
+        {
+            "id": 181,
+            "name": "no plan",
+            "recruitPageUrl": "https://noplan-inc.com/career",
+            "techBlogUrl": "https://zenn.dev/no_plan"
+        },
+        {
+            "id": 182,
+            "name": "Nota",
+            "recruitPageUrl": "https://recruit.helpfeel.com/",
+            "techBlogUrl": "https://blog.notainc.com"
+        },
+        {
+            "id": 183,
+            "name": "note",
+            "recruitPageUrl": "https://note.jp/n/nc0fe1a230633",
+            "techBlogUrl": "https://engineerteam.note.jp/m/m70da42dac8cf"
+        },
+        {
+            "id": 184,
+            "name": "NRIネットコム",
+            "recruitPageUrl": "https://www.nri-net.com/recruit/",
+            "techBlogUrl": "https://tech.nri-net.com/category/Technology"
+        },
+        {
+            "id": 185,
+            "name": "NTTコミュニケーションズ",
+            "recruitPageUrl": "https://www.ntt.com/about-us/recruit/",
+            "techBlogUrl": "https://engineers.ntt.com"
+        },
+        {
+            "id": 186,
+            "name": "NTTソフトウェアイノベーションセンタ ",
+            "recruitPageUrl": "https://www.rd.ntt/sic/recruit/",
+            "techBlogUrl": "https://medium.com/nttlabs"
+        },
+        {
+            "id": 187,
+            "name": "Offers(Zenn Publication)",
+            "recruitPageUrl": "https://jobs.overflow.co.jp/",
+            "techBlogUrl": "https://zenn.dev/p/overflow_offers"
+        },
+        {
+            "id": 188,
+            "name": "OLTA",
+            "recruitPageUrl": "https://corp.olta.co.jp/recruit_engineers",
+            "techBlogUrl": "https://techblog.olta.co.jp"
+        },
+        {
+            "id": 189,
+            "name": "Open Reach Tech",
+            "recruitPageUrl": "https://openreach.tech/ja/index.html",
+            "techBlogUrl": "https://zenn.dev/openreachtech"
+        },
+        {
+            "id": 190,
+            "name": "OPEN8",
+            "recruitPageUrl": "https://open8.com/recruit/",
+            "techBlogUrl": "https://open8tech.hatenablog.com"
+        },
+        {
+            "id": 191,
+            "name": "OpenWork",
+            "recruitPageUrl": "https://www.openwork.co.jp/recruit/",
+            "techBlogUrl": "https://techblog.openwork.co.jp"
+        },
+        {
+            "id": 192,
+            "name": "OptFit",
+            "recruitPageUrl": null,
+            "techBlogUrl": "https://zenn.dev/optfit"
+        },
+        {
+            "id": 193,
+            "name": "OPTiM",
+            "recruitPageUrl": "https://www.optim.co.jp/recruit/",
+            "techBlogUrl": "https://tech-blog.optim.co.jp"
+        },
+        {
+            "id": 194,
+            "name": "OPTIMIND",
+            "recruitPageUrl": "https://recruit.optimind.tech/",
+            "techBlogUrl": "https://zenn.dev/p/optimind"
+        },
+        {
+            "id": 195,
+            "name": "ORENDA WORLD",
+            "recruitPageUrl": "https://orenda.co.jp/recruit/",
+            "techBlogUrl": "https://orenda.co.jp/"
+        },
+        {
+            "id": 196,
+            "name": "OSSTech",
+            "recruitPageUrl": "https://www.osstech.co.jp/recruit/",
+            "techBlogUrl": "https://blog.osstech.co.jp/"
+        },
+        {
+            "id": 197,
+            "name": "paiza",
+            "recruitPageUrl": "https://www.paiza.co.jp/recruit/",
+            "techBlogUrl": "https://paiza.hatenablog.com"
+        },
+        {
+            "id": 198,
+            "name": "Pentagon",
+            "recruitPageUrl": "https://job.pentagon.tokyo/",
+            "techBlogUrl": "https://blog.pentagon.tokyo/category/engineer/"
+        },
+        {
+            "id": 199,
+            "name": "PharmaX",
+            "recruitPageUrl": "https://career.pharma-x.co.jp/",
+            "techBlogUrl": "https://zenn.dev/p/pharmax"
+        },
+        {
+            "id": 200,
+            "name": "PHONE APPLI",
+            "recruitPageUrl": "https://phoneappli.net/recruit/",
+            "techBlogUrl": "https://phoneappli.hatenablog.com/"
         }
     ]
 }
