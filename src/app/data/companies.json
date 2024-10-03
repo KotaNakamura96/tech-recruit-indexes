@@ -1199,6 +1199,306 @@
             "name": "PHONE APPLI",
             "recruitPageUrl": "https://phoneappli.net/recruit/",
             "techBlogUrl": "https://phoneappli.hatenablog.com/"
+        },
+        {
+            "id": 201,
+            "name": "pipon",
+            "recruitPageUrl": "https://pipon.net/career",
+            "techBlogUrl": "https://zenn.dev/p/pipon_tech_blog"
+        },
+        {
+            "id": 202,
+            "name": "pixiv",
+            "recruitPageUrl": "https://www.pixiv.co.jp/recruitment/",
+            "techBlogUrl": "https://zenn.dev/p/pixiv"
+        },
+        {
+            "id": 203,
+            "name": "PLAID",
+            "recruitPageUrl": "https://recruit.plaid.co.jp/engineer",
+            "techBlogUrl": "https://tech.plaid.co.jp/"
+        },
+        {
+            "id": 204,
+            "name": "PLAY",
+            "recruitPageUrl": "https://recruit.play.jp/",
+            "techBlogUrl": "https://developers.play.jp"
+        },
+        {
+            "id": 205,
+            "name": "Playground",
+            "recruitPageUrl": null,
+            "techBlogUrl": "https://tech.playground.style/"
+        },
+        {
+            "id": 206,
+            "name": "POL",
+            "recruitPageUrl": "https://labbase.co.jp/recruit/",
+            "techBlogUrl": "https://zenn.dev/p/labbase"
+        },
+        {
+            "id": 207,
+            "name": "Polestar-ID",
+            "recruitPageUrl": "https://recruit.psid.co.jp/",
+            "techBlogUrl": "https://www.psid.co.jp/news/"
+        },
+        {
+            "id": 208,
+            "name": "PR TIMES",
+            "recruitPageUrl": "https://prtimes.co.jp/careers/engineer/",
+            "techBlogUrl": "https://developers.prtimes.jp/"
+        },
+        {
+            "id": 209,
+            "name": "Preferred Networks",
+            "recruitPageUrl": "https://www.preferred.jp/ja/careers/",
+            "techBlogUrl": "https://tech.preferred.jp/ja/blog/"
+        },
+        {
+            "id": 210,
+            "name": "Progate",
+            "recruitPageUrl": "https://www.recruit.prog-8.com/",
+            "techBlogUrl": "https://tech.prog-8.com"
+        },
+        {
+            "id": 211,
+            "name": "Qiita",
+            "recruitPageUrl": "https://corp.qiita.com/jobs/",
+            "techBlogUrl": "https://zine.qiita.com/"
+        },
+        {
+            "id": 212,
+            "name": "R&D",
+            "recruitPageUrl": "https://randd-inc.com/jobs",
+            "techBlogUrl": "https://zenn.dev/randd"
+        },
+        {
+            "id": 213,
+            "name": "READYFOR",
+            "recruitPageUrl": "https://corp.readyfor.jp/recruit",
+            "techBlogUrl": "https://zenn.dev/p/readyfor_blog"
+        },
+        {
+            "id": 214,
+            "name": "Red Hat",
+            "recruitPageUrl": "https://www.redhat.com/ja/jobs",
+            "techBlogUrl": "https://rheb.hatenablog.com"
+        },
+        {
+            "id": 215,
+            "name": "Repro",
+            "recruitPageUrl": "https://company.repro.io/recruit/",
+            "techBlogUrl": "https://tech.repro.io"
+        },
+        {
+            "id": 216,
+            "name": "Retail AI",
+            "recruitPageUrl": "https://recruit.jobcan.jp/retail-ai/",
+            "techBlogUrl": "https://note.com/retail_ai"
+        },
+        {
+            "id": 217,
+            "name": "Retty",
+            "recruitPageUrl": "https://teamretty.notion.site/Retty-a426f0c163e64358ba466782beeeb6b8",
+            "techBlogUrl": "https://engineer.retty.me"
+        },
+        {
+            "id": 218,
+            "name": "REVISIO",
+            "recruitPageUrl": "https://revisio.co.jp/recruit",
+            "techBlogUrl": "https://tech.revisio.co.jp"
+        },
+        {
+            "id": 219,
+            "name": "Ridge-i",
+            "recruitPageUrl": "https://ridge-i.com/career/",
+            "techBlogUrl": "https://iblog.ridge-i.com"
+        },
+        {
+            "id": 220,
+            "name": "RIT",
+            "recruitPageUrl": "https://www.rit-inc.co.jp/recruit",
+            "techBlogUrl": "https://rit-inc.hatenablog.com"
+        },
+        {
+            "id": 221,
+            "name": "ROBOT PAYMENT",
+            "recruitPageUrl": "https://www.robotpayment.co.jp/recruit/",
+            "techBlogUrl": "https://tech.robotpayment.co.jp"
+        },
+        {
+            "id": 222,
+            "name": "ROXX",
+            "recruitPageUrl": "https://careers.roxx.co.jp/",
+            "techBlogUrl": "https://techblog.roxx.co.jp"
+        },
+        {
+            "id": 223,
+            "name": "Safie",
+            "recruitPageUrl": "https://safie.co.jp/teams/",
+            "techBlogUrl": "https://engineers.safie.link"
+        },
+        {
+            "id": 224,
+            "name": "SALESCORE",
+            "recruitPageUrl": "https://jealous-gallium-42b.notion.site/SALESCORE-783aa763e9a64434a523af730fc35757",
+            "techBlogUrl": "https://zenn.dev/p/salescore"
+        },
+        {
+            "id": 225,
+            "name": "SalesNow ",
+            "recruitPageUrl": "https://www.wantedly.com/companies/company_9613540/projects?auto_login_flag=true#_=_",
+            "techBlogUrl": "https://tech.salesnow.jp"
+        },
+        {
+            "id": 226,
+            "name": "Sansan",
+            "recruitPageUrl": "https://media.sansan-engineering.com/",
+            "techBlogUrl": "https://buildersbox.corp-sansan.com"
+        },
+        {
+            "id": 227,
+            "name": "SCSK",
+            "recruitPageUrl": "https://www.scsk.jp/recruit/index.html",
+            "techBlogUrl": "https://blog.usize-tech.com/"
+        },
+        {
+            "id": 228,
+            "name": "Seeed",
+            "recruitPageUrl": "https://www.seeedstudio.com/blog/jobs-en/",
+            "techBlogUrl": "https://lab.seeed.co.jp"
+        },
+        {
+            "id": 229,
+            "name": "SEGA",
+            "recruitPageUrl": "https://www.sega.co.jp/recruit/",
+            "techBlogUrl": "https://techblog.sega.jp"
+        },
+        {
+            "id": 230,
+            "name": "SEGA XD",
+            "recruitPageUrl": "https://segaxd.co.jp/recruit/",
+            "techBlogUrl": "https://note.segaxd.co.jp/m/m81bdf8ff4be8"
+        },
+        {
+            "id": 231,
+            "name": "Seibii",
+            "recruitPageUrl": "https://seibii.co.jp/corporate/recruit",
+            "techBlogUrl": "https://zenn.dev/seibii"
+        },
+        {
+            "id": 232,
+            "name": "SHIFT Group",
+            "recruitPageUrl": "https://recruit.shiftinc.jp/",
+            "techBlogUrl": "https://note.com/shift_tech"
+        },
+        {
+            "id": 233,
+            "name": "Showcase Gig",
+            "recruitPageUrl": "https://recruit.showcase-gig.com/",
+            "techBlogUrl": "https://note.com/scg_tech"
+        },
+        {
+            "id": 234,
+            "name": "SHOWROOM",
+            "recruitPageUrl": "https://recruit.showroom.co.jp/",
+            "techBlogUrl": "https://note.com/showroom_blog"
+        },
+        {
+            "id": 235,
+            "name": "SmartBank",
+            "recruitPageUrl": "https://smartbank.co.jp/positions",
+            "techBlogUrl": "https://blog.smartbank.co.jp"
+        },
+        {
+            "id": 236,
+            "name": "SmartHR",
+            "recruitPageUrl": "https://recruit.smarthr.co.jp/",
+            "techBlogUrl": "https://tech.smarthr.jp"
+        },
+        {
+            "id": 237,
+            "name": "SmartNews",
+            "recruitPageUrl": "https://careers.smartnews.com/jp/",
+            "techBlogUrl": "https://developer.smartnews.com/blog"
+        },
+        {
+            "id": 238,
+            "name": "SO Technologies",
+            "recruitPageUrl": "https://recruit.so-tech.co.jp/",
+            "techBlogUrl": "https://developer.so-tech.co.jp"
+        },
+        {
+            "id": 239,
+            "name": "Social Databank",
+            "recruitPageUrl": "https://recruit.social-db.co.jp/",
+            "techBlogUrl": "https://zenn.dev/p/sdb_blog"
+        },
+        {
+            "id": 240,
+            "name": "SODA",
+            "recruitPageUrl": "https://recruit.soda-inc.jp/engineer",
+            "techBlogUrl": "https://zenn.dev/p/team_soda"
+        },
+        {
+            "id": 241,
+            "name": "SOELU",
+            "recruitPageUrl": "https://about.soelu.com/recruit/",
+            "techBlogUrl": "https://engineering.soelu.com"
+        },
+        {
+            "id": 242,
+            "name": "Speee",
+            "recruitPageUrl": "https://speee.jp/recruit/",
+            "techBlogUrl": "https://tech.speee.jp"
+        },
+        {
+            "id": 243,
+            "name": "Spiral.AI",
+            "recruitPageUrl": "https://go-spiral.ai/recruit/",
+            "techBlogUrl": "https://zenn.dev/p/spiralai"
+        },
+        {
+            "id": 244,
+            "name": "SQUARE ENIX",
+            "recruitPageUrl": "https://www.jp.square-enix.com/recruit/",
+            "techBlogUrl": "https://blog.jp.square-enix.com/iteng-blog/index"
+        },
+        {
+            "id": 245,
+            "name": "SRE Holdings",
+            "recruitPageUrl": "https://sre-group.co.jp/recruit/",
+            "techBlogUrl": "https://zenn.dev/p/sre_holdings"
+        },
+        {
+            "id": 246,
+            "name": "stand.fm",
+            "recruitPageUrl": null,
+            "techBlogUrl": "https://note.com/standfm_company"
+        },
+        {
+            "id": 247,
+            "name": "Stockmark",
+            "recruitPageUrl": "https://stockmark.co.jp/recruit",
+            "techBlogUrl": "https://stockmark-tech.hatenablog.com"
+        },
+        {
+            "id": 248,
+            "name": "STORES",
+            "recruitPageUrl": "https://jobs.st.inc/",
+            "techBlogUrl": "https://product.st.inc"
+        },
+        {
+            "id": 249,
+            "name": "Studyplus",
+            "recruitPageUrl": "https://tech.studyplus.co.jp/recruit",
+            "techBlogUrl": "https://tech.studyplus.co.jp"
+        },
+        {
+            "id": 250,
+            "name": "Supership",
+            "recruitPageUrl": "https://supership.jp/recruit/",
+            "techBlogUrl": "https://www.wantedly.com/stories/s/Supership"
         }
     ]
 }
