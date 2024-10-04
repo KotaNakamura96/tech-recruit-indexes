@@ -1499,6 +1499,306 @@
             "name": "Supership",
             "recruitPageUrl": "https://supership.jp/recruit/",
             "techBlogUrl": "https://www.wantedly.com/stories/s/Supership"
+        },
+        {
+            "id": 251,
+            "name": "SUPER STUDIO",
+            "recruitPageUrl": "https://careers.super-studio.jp/",
+            "techBlogUrl": "https://zenn.dev/p/superstudio"
+        },
+        {
+            "id": 252,
+            "name": "Synamon",
+            "recruitPageUrl": "https://valiant-handball-b13.notion.site/Activ8-58e0a1f5b11d4223a2bd5e70964ca473",
+            "techBlogUrl": "https://synamon.hatenablog.com"
+        },
+        {
+            "id": 253,
+            "name": "Sysdig",
+            "recruitPageUrl": "https://www.scsk.jp/recruit/index.html",
+            "techBlogUrl": "https://www.scsk.jp/sp/sysdig/"
+        },
+        {
+            "id": 254,
+            "name": "TalentX",
+            "recruitPageUrl": "https://talentx.co.jp/recruit",
+            "techBlogUrl": "https://tech.talentx.co.jp"
+        },
+        {
+            "id": 255,
+            "name": "TANP",
+            "recruitPageUrl": "https://tanp.jp/company/recruit/",
+            "techBlogUrl": "https://www.tanp-blog.com"
+        },
+        {
+            "id": 256,
+            "name": "TeamSpirit",
+            "recruitPageUrl": "https://recruit.teamspirit.com/",
+            "techBlogUrl": "https://teamspirit.hatenablog.com"
+        },
+        {
+            "id": 257,
+            "name": "Techouse",
+            "recruitPageUrl": "https://jp.techouse.com/recruit/",
+            "techBlogUrl": "https://developers.techouse.com"
+        },
+        {
+            "id": 258,
+            "name": "TechRacho",
+            "recruitPageUrl": "https://www.bpsinc.jp/recruit.html?_gl=1*4dquml*_ga*MTY2MzIyMDk5Mi4xNzI4MDQ5MjE5*_ga_9Q131T2QDM*MTcyODA0OTIxOS4xLjAuMTcyODA0OTI1MS4wLjAuMA..",
+            "techBlogUrl": "https://techracho.bpsinc.jp"
+        },
+        {
+            "id": 259,
+            "name": "TechTrain",
+            "recruitPageUrl": "https://techbowl.co.jp/#recruit",
+            "techBlogUrl": "https://zenn.dev/techtrain"
+        },
+        {
+            "id": 260,
+            "name": "TENTIAL",
+            "recruitPageUrl": "https://corp.tential.jp/recruit/",
+            "techBlogUrl": "https://tech.tential.jp"
+        },
+        {
+            "id": 261,
+            "name": "THECOO",
+            "recruitPageUrl": "https://recruit.thecoo.co.jp/",
+            "techBlogUrl": "https://note.com/thecoo_engineer"
+        },
+        {
+            "id": 262,
+            "name": "Thinkings",
+            "recruitPageUrl": "https://thinkings.co.jp/recruit/",
+            "techBlogUrl": "https://zenn.dev/thinkings"
+        },
+        {
+            "id": 263,
+            "name": "Tier IV",
+            "recruitPageUrl": "https://careers.tier4.jp/",
+            "techBlogUrl": "https://medium.com/tier-iv-tech-blog/tagged/tech-blog"
+        },
+        {
+            "id": 264,
+            "name": "Tokyo Otaku Mode",
+            "recruitPageUrl": "https://otakumode.com/careers",
+            "techBlogUrl": "https://blog.otakumode.com/ja/"
+        },
+        {
+            "id": 265,
+            "name": "TOWN",
+            "recruitPageUrl": "https://town.biz/recruit",
+            "techBlogUrl": "https://town.biz/tag/engineer"
+        },
+        {
+            "id": 266,
+            "name": "TURING",
+            "recruitPageUrl": "https://tur.ing/jobs",
+            "techBlogUrl": "https://zenn.dev/p/turing_motors"
+        },
+        {
+            "id": 267,
+            "name": "TVer",
+            "recruitPageUrl": "https://recruit.tver.co.jp/",
+            "techBlogUrl": "https://techblog.tver.co.jp"
+        },
+        {
+            "id": 268,
+            "name": "Ubie",
+            "recruitPageUrl": "https://recruit.ubie.life/pp",
+            "techBlogUrl": "https://zenn.dev/p/ubie_dev"
+        },
+        {
+            "id": 269,
+            "name": "Unipos",
+            "recruitPageUrl": "https://www.unipos.co.jp/recruit/",
+            "techBlogUrl": "https://fringeneer.hatenablog.com"
+        },
+        {
+            "id": 270,
+            "name": "Uzabase",
+            "recruitPageUrl": "https://www.uzabase.com/jp/careers/",
+            "techBlogUrl": "https://tech.uzabase.com/archive/category/blog"
+        },
+        {
+            "id": 271,
+            "name": "VA Linux",
+            "recruitPageUrl": "https://www.valinux.co.jp/recruit/",
+            "techBlogUrl": "https://valinux.hatenablog.com"
+        },
+        {
+            "id": 272,
+            "name": "var",
+            "recruitPageUrl": "https://var.co.jp/recruit",
+            "techBlogUrl": "https://zenn.dev/var"
+        },
+        {
+            "id": 273,
+            "name": "VirtualCast",
+            "recruitPageUrl": "https://open.talentio.com/r/1/c/virtualcast/homes/1796",
+            "techBlogUrl": "https://blog.virtualcast.jp/blog/category/tech/"
+        },
+        {
+            "id": 274,
+            "name": "Visional",
+            "recruitPageUrl": "https://www.visional.inc/ja/careers.html",
+            "techBlogUrl": "https://engineering.visional.inc/blog/"
+        },
+        {
+            "id": 275,
+            "name": "vivit",
+            "recruitPageUrl": "https://vivit.co.jp/recruit/",
+            "techBlogUrl": "https://vivit.hatenablog.com"
+        },
+        {
+            "id": 276,
+            "name": "Voicy",
+            "recruitPageUrl": "https://recruit.voicy.jp/",
+            "techBlogUrl": "https://medium.com/voicy-engineering"
+        },
+        {
+            "id": 277,
+            "name": "Wantedly",
+            "recruitPageUrl": "https://www.wantedly.com/about/list",
+            "techBlogUrl": "https://www.wantedly.com/stories/s/wantedly_engineers"
+        },
+        {
+            "id": 278,
+            "name": "WESEEK",
+            "recruitPageUrl": "https://weseek.co.jp/ja/recruit/",
+            "techBlogUrl": "https://weseek.co.jp/tech/"
+        },
+        {
+            "id": 279,
+            "name": "Wiz",
+            "recruitPageUrl": "https://012grp.co.jp/recruiting",
+            "techBlogUrl": "https://tech.012grp.co.jp"
+        },
+        {
+            "id": 280,
+            "name": "wywy",
+            "recruitPageUrl": null,
+            "techBlogUrl": "https://wywy.jp/"
+        },
+        {
+            "id": 281,
+            "name": "x garden",
+            "recruitPageUrl": null,
+            "techBlogUrl": "https://x-garde-creation.hatenablog.com"
+        },
+        {
+            "id": 282,
+            "name": "X Mile",
+            "recruitPageUrl": "https://www.xmile.co.jp/recruit",
+            "techBlogUrl": "https://zenn.dev/p/xmile"
+        },
+        {
+            "id": 283,
+            "name": "Yappli",
+            "recruitPageUrl": "https://yappli.co.jp/recruit/",
+            "techBlogUrl": "https://tech.yappli.io"
+        },
+        {
+            "id": 284,
+            "name": "YAZ",
+            "recruitPageUrl": "https://www.yaz.co.jp/careers",
+            "techBlogUrl": "https://www.yaz.co.jp"
+        },
+        {
+            "id": 285,
+            "name": "YOUTRUST",
+            "recruitPageUrl": "https://youtrust.jp/companies/youtrust",
+            "techBlogUrl": "https://tech.youtrust.co.jp"
+        },
+        {
+            "id": 286,
+            "name": "Zaim",
+            "recruitPageUrl": "https://open.talentio.com/r/1/c/kufu-ai-studio/homes/3849",
+            "techBlogUrl": "https://blog.zaim.co.jp"
+        },
+        {
+            "id": 287,
+            "name": "Zenn",
+            "recruitPageUrl": "https://careers.classmethod.jp/",
+            "techBlogUrl": "https://zenn.dev/p/team_zenn"
+        },
+        {
+            "id": 288,
+            "name": "ZEROUM",
+            "recruitPageUrl": "https://www.zeroum.co.jp/recruit/",
+            "techBlogUrl": "https://zenn.dev/zeroum"
+        },
+        {
+            "id": 289,
+            "name": "zoome",
+            "recruitPageUrl": null,
+            "techBlogUrl": "https://zenn.dev/p/zoome"
+        },
+        {
+            "id": 290,
+            "name": "ZOZO",
+            "recruitPageUrl": "https://corp.zozo.com/recruit/",
+            "techBlogUrl": "https://techblog.zozo.com"
+        },
+        {
+            "id": 291,
+            "name": "207",
+            "recruitPageUrl": "https://207-inc.super.site/recruit",
+            "techBlogUrl": "https://tech.207-inc.com/"
+        },
+        {
+            "id": 292,
+            "name": "10ANTZ",
+            "recruitPageUrl": "https://10antz.co.jp/recruit/",
+            "techBlogUrl": "https://developers.10antz.co.jp"
+        },
+        {
+            "id": 293,
+            "name": "10X",
+            "recruitPageUrl": "https://10x.co.jp/recruit/",
+            "techBlogUrl": "https://product.10x.co.jp"
+        },
+        {
+            "id": 294,
+            "name": "アームズ",
+            "recruitPageUrl": "https://arms-soft.co.jp/recruit/",
+            "techBlogUrl": "https://tech.arms-soft.co.jp"
+        },
+        {
+            "id": 295,
+            "name": "アイキューブドシステムズ",
+            "recruitPageUrl": "https://www.i3-systems.com/careers/",
+            "techBlogUrl": "https://tech.i3-systems.com"
+        },
+        {
+            "id": 296,
+            "name": "アイスタイル",
+            "recruitPageUrl": "https://www.istyle.co.jp/recruit/",
+            "techBlogUrl": "https://techblog.istyle.co.jp"
+        },
+        {
+            "id": 297,
+            "name": "アイデミー",
+            "recruitPageUrl": "https://aidemy.co.jp/recruit/",
+            "techBlogUrl": "https://zenn.dev/p/aidemy"
+        },
+        {
+            "id": 298,
+            "name": "アイプランニング",
+            "recruitPageUrl": "https://www.ipl.co.jp/recruit/",
+            "techBlogUrl": "https://iplanning.hatenablog.jp"
+        },
+        {
+            "id": 299,
+            "name": "アイレット",
+            "recruitPageUrl": "https://www.iret.co.jp/recruit/",
+            "techBlogUrl": "https://zenn.dev/p/iret"
+        },
+        {
+            "id": 300,
+            "name": "アカツキ",
+            "recruitPageUrl": "https://aktsk.jp/recruit/",
+            "techBlogUrl": "https://hackerslab.aktsk.jp"
         }
     ]
 }
