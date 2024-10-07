@@ -1799,6 +1799,306 @@
             "name": "アカツキ",
             "recruitPageUrl": "https://aktsk.jp/recruit/",
             "techBlogUrl": "https://hackerslab.aktsk.jp"
+        },
+        {
+            "id": 301,
+            "name": "アクセルマーク",
+            "recruitPageUrl": "https://www.axelmark.co.jp/recruit/",
+            "techBlogUrl": "https://zenn.dev/axelmark"
+        },
+        {
+            "id": 302,
+            "name": "アクトインディ",
+            "recruitPageUrl": "https://actindi.net/recruit/",
+            "techBlogUrl": "https://tech.actindi.net"
+        },
+        {
+            "id": 303,
+            "name": "あしたのチーム",
+            "recruitPageUrl": "https://career-engineers.ashita-team.com/?_gl=1*1tjzb1z*_gcl_au*MTUzMDU4NzU2NS4xNzI4MzA3ODcz*_ga*MTIwMzQxNTEyOS4xNzI4MzA3NDY3*_ga_6TREHMF35S*MTcyODMwNzg3My4xLjEuMTcyODMwNzg4Mi4wLjAuMA..&_ga=2.152650554.2023042540.1728307874-1203415129.1728307467",
+            "techBlogUrl": "https://engineer.ashita-team.com"
+        },
+        {
+            "id": 304,
+            "name": "アスエネ",
+            "recruitPageUrl": "https://corp.earthene.com/recruit",
+            "techBlogUrl": "https://zenn.dev/p/asuene"
+        },
+        {
+            "id": 305,
+            "name": "アスクル",
+            "recruitPageUrl": "https://www.askul.co.jp/kaisya/saiyo/",
+            "techBlogUrl": "https://tech.askul.co.jp"
+        },
+        {
+            "id": 306,
+            "name": "あすけん",
+            "recruitPageUrl": "https://www.asken.inc/recruit",
+            "techBlogUrl": "https://tech.asken.inc"
+        },
+        {
+            "id": 307,
+            "name": "アスタミューゼ",
+            "recruitPageUrl": "https://recruit.astamuse.co.jp/",
+            "techBlogUrl": "https://lab.astamuse.co.jp"
+        },
+        {
+            "id": 308,
+            "name": "アソビュー",
+            "recruitPageUrl": "https://www.asoview.co.jp/career",
+            "techBlogUrl": "https://tech.asoview.co.jp"
+        },
+        {
+            "id": 309,
+            "name": "アットホーム",
+            "recruitPageUrl": "https://www.career-cloud.asia/mid/entry/job/offer/athome",
+            "techBlogUrl": "https://dblog.athome.co.jp"
+        },
+        {
+            "id": 310,
+            "name": "アトラエ",
+            "recruitPageUrl": "https://open.talentio.com/r/1/c/atrae/homes/4050",
+            "techBlogUrl": "https://atraetech.hatenablog.com"
+        },
+        {
+            "id": 311,
+            "name": "アプトポッド",
+            "recruitPageUrl": "https://www.aptpod.co.jp/recruit/",
+            "techBlogUrl": "https://tech.aptpod.co.jp"
+        },
+        {
+            "id": 312,
+            "name": "アプリボット",
+            "recruitPageUrl": "https://www.applibot.co.jp/recruit/3dadopt/",
+            "techBlogUrl": "https://blog.applibot.co.jp/"
+        },
+        {
+            "id": 313,
+            "name": "アメリエフ",
+            "recruitPageUrl": "https://amelieff.jp/recruit/",
+            "techBlogUrl": "https://staffblog.amelieff.jp"
+        },
+        {
+            "id": 314,
+            "name": "アルサーガパートナーズ",
+            "recruitPageUrl": "https://www.arsaga.jp/recruit/",
+            "techBlogUrl": "https://zenn.dev/p/arsaga"
+        },
+        {
+            "id": 315,
+            "name": "アルダグラム",
+            "recruitPageUrl": "https://aldagram.com/recruit/",
+            "techBlogUrl": "https://zenn.dev/p/aldagram_tech"
+        },
+        {
+            "id": 316,
+            "name": "イエソド",
+            "recruitPageUrl": "https://help.yesod.co/recruit-info",
+            "techBlogUrl": "https://zenn.dev/yesodco"
+        },
+        {
+            "id": 317,
+            "name": "イタンジ",
+            "recruitPageUrl": "https://www.itandi.co.jp/recruits/engineer",
+            "techBlogUrl": "https://tech.itandi.co.jp"
+        },
+        {
+            "id": 318,
+            "name": "イノベーター・ジャパン",
+            "recruitPageUrl": "https://www.innovator.jp.net/careers",
+            "techBlogUrl": "https://tech.innovator.jp.net"
+        },
+        {
+            "id": 319,
+            "name": "インゲージ",
+            "recruitPageUrl": "https://mite.ingage.co.jp/join-us/",
+            "techBlogUrl": "https://blog.ingage.jp"
+        },
+        {
+            "id": 320,
+            "name": "インターステラ",
+            "recruitPageUrl": "https://www.interstellar.co.jp/company/career/",
+            "techBlogUrl": "https://blog.interstellar.co.jp/"
+        },
+        {
+            "id": 321,
+            "name": "インテリジェントテクノロジー",
+            "recruitPageUrl": "https://www.iti.co.jp/recruit/",
+            "techBlogUrl": "https://iti.hatenablog.jp"
+        },
+        {
+            "id": 322,
+            "name": "インフィニットループ",
+            "recruitPageUrl": "https://www.infiniteloop.co.jp/recruitment/",
+            "techBlogUrl": "https://www.infiniteloop.co.jp/tech-blog/"
+        },
+        {
+            "id": 323,
+            "name": "ヴィック",
+            "recruitPageUrl": "https://vicc.jp/recruit/",
+            "techBlogUrl": "https://blog.vicc.jp"
+        },
+        {
+            "id": 324,
+            "name": "ウィルゲート",
+            "recruitPageUrl": "https://www.willgate.co.jp/career/",
+            "techBlogUrl": "https://tech.willgate.co.jp"
+        },
+        {
+            "id": 325,
+            "name": "ウイングアーク１ｓｔ",
+            "recruitPageUrl": "https://corp.wingarc.com/recruit/index.html",
+            "techBlogUrl": "https://note.wingarc.com/m/m1d39b8a5d9be"
+        },
+        {
+            "id": 326,
+            "name": "ウェイブ",
+            "recruitPageUrl": "https://recruit.wwwave.jp/",
+            "techBlogUrl": "https://zenn.dev/p/wwwave"
+        },
+        {
+            "id": 327,
+            "name": "ウエディングパーク",
+            "recruitPageUrl": "https://www.weddingpark.co.jp/recruit",
+            "techBlogUrl": "https://engineers.weddingpark.co.jp/"
+        },
+        {
+            "id": 328,
+            "name": "ウェルスナビ",
+            "recruitPageUrl": "https://recruit.wealthnavi.com/",
+            "techBlogUrl": "https://zenn.dev/p/wn_engineering"
+        },
+        {
+            "id": 329,
+            "name": "ウォーターセル",
+            "recruitPageUrl": "https://water-cell.jp/recruit/",
+            "techBlogUrl": "https://watercelldev.hatenablog.jp"
+        },
+        {
+            "id": 330,
+            "name": "エーピーコミュニケーションズ",
+            "recruitPageUrl": "https://www.ap-com.co.jp/recruit/",
+            "techBlogUrl": "https://techblog.ap-com.co.jp"
+        },
+        {
+            "id": 331,
+            "name": "エキサイト",
+            "recruitPageUrl": "https://excite-holdings.notion.site/fb91ae8ddbe44e42ad7cd9a3cb3ea698",
+            "techBlogUrl": "https://tech.excite.co.jp"
+        },
+        {
+            "id": 332,
+            "name": "エクサウィザーズ",
+            "recruitPageUrl": "https://recruit.exawizards.com/",
+            "techBlogUrl": "https://techblog.exawizards.com"
+        },
+        {
+            "id": 333,
+            "name": "エクスプラザ",
+            "recruitPageUrl": "https://lifeat.explaza.jp/",
+            "techBlogUrl": "https://tech.explaza.jp"
+        },
+        {
+            "id": 334,
+            "name": "エス・エム・エス",
+            "recruitPageUrl": "https://careers.bm-sms.co.jp/engineer",
+            "techBlogUrl": "https://tech.bm-sms.co.jp"
+        },
+        {
+            "id": 335,
+            "name": "エニグモ",
+            "recruitPageUrl": "https://enigmo.co.jp/recruit/",
+            "techBlogUrl": "https://tech.enigmo.co.jp"
+        },
+        {
+            "id": 336,
+            "name": "エビリー",
+            "recruitPageUrl": "https://recruit.eviry.com/",
+            "techBlogUrl": "https://zenn.dev/eviry"
+        },
+        {
+            "id": 337,
+            "name": "エブリー",
+            "recruitPageUrl": "https://corp.every.tv/recruits/engineer",
+            "techBlogUrl": "https://tech.every.tv"
+        },
+        {
+            "id": 338,
+            "name": "エムオーテックス",
+            "recruitPageUrl": "https://www.motex.co.jp/recruit/",
+            "techBlogUrl": "https://tech.motex.co.jp"
+        },
+        {
+            "id": 339,
+            "name": "エムスリー",
+            "recruitPageUrl": "https://jobs.m3.com/engineer/",
+            "techBlogUrl": "https://www.m3tech.blog"
+        },
+        {
+            "id": 340,
+            "name": "エムティーアイ",
+            "recruitPageUrl": "https://www.mti.co.jp/?page_id=12",
+            "techBlogUrl": "https://tech.mti.co.jp"
+        },
+        {
+            "id": 341,
+            "name": "オイシックス・ラ・大地",
+            "recruitPageUrl": "https://recruit.oisixradaichi.co.jp/",
+            "techBlogUrl": "https://creators.oisixradaichi.co.jp"
+        },
+        {
+            "id": 342,
+            "name": "オールアバウト",
+            "recruitPageUrl": "https://corp.allabout.co.jp/recruit/",
+            "techBlogUrl": "https://allabout-tech.hatenablog.com"
+        },
+        {
+            "id": 343,
+            "name": "おてつたび",
+            "recruitPageUrl": "https://otetsutabi.notion.site/otetsutabi/7312d1ad95d043a7a824752a389dc111",
+            "techBlogUrl": "https://zenn.dev/otetsutabi_tech"
+        },
+        {
+            "id": 344,
+            "name": "オプトテクノロジーズ",
+            "recruitPageUrl": "https://opt-technologies.jp/",
+            "techBlogUrl": "https://tech-magazine.opt.ne.jp"
+        },
+        {
+            "id": 345,
+            "name": "オルターブース",
+            "recruitPageUrl": "https://www.alterbooth.com/recruit/",
+            "techBlogUrl": "https://aadojo.alterbooth.com"
+        },
+        {
+            "id": 346,
+            "name": "ガイアックス",
+            "recruitPageUrl": "https://www.gaiax.co.jp/careers/",
+            "techBlogUrl": "https://gaiax.hatenablog.com"
+        },
+        {
+            "id": 347,
+            "name": "カイユウ",
+            "recruitPageUrl": "https://kai-you.co.jp/recruit/",
+            "techBlogUrl": "https://kai-you-tech.hatenablog.com"
+        },
+        {
+            "id": 348,
+            "name": "カウシェ",
+            "recruitPageUrl": "https://enjoy-working.kauche.com/",
+            "techBlogUrl": "https://note.com/kauche/m/meb1f972d92dc"
+        },
+        {
+            "id": 349,
+            "name": "カカクコム",
+            "recruitPageUrl": "https://corporate.kakaku.com/recruit",
+            "techBlogUrl": "https://kakaku-techblog.com"
+        },
+        {
+            "id": 350,
+            "name": "カケハシ",
+            "recruitPageUrl": "https://recruit.kakehashi.life/engineer",
+            "techBlogUrl": "https://kakehashi-dev.hatenablog.com"
         }
     ]
 }
