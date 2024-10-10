@@ -2099,6 +2099,306 @@
             "name": "カケハシ",
             "recruitPageUrl": "https://recruit.kakehashi.life/engineer",
             "techBlogUrl": "https://kakehashi-dev.hatenablog.com"
+        },
+        {
+            "id": 351,
+            "name": "カミナシ",
+            "recruitPageUrl": "https://careers.kaminashi.jp/?_ga=2.88807387.1137480664.1728567045-716172183.1728567044",
+            "techBlogUrl": "https://kaminashi-developer.hatenablog.jp"
+        },
+        {
+            "id": 352,
+            "name": "カヤック",
+            "recruitPageUrl": "https://www.kayac.com/recruit/fresh",
+            "techBlogUrl": "https://techblog.kayac.com"
+        },
+        {
+            "id": 353,
+            "name": "カラビナ",
+            "recruitPageUrl": "https://karabiner.tech/career",
+            "techBlogUrl": "https://zenn.dev/p/karabiner_inc"
+        },
+        {
+            "id": 354,
+            "name": "カンム",
+            "recruitPageUrl": "https://kanmu.co.jp/jobs/",
+            "techBlogUrl": "https://tech.kanmu.co.jp"
+        },
+        {
+            "id": 355,
+            "name": "キカガク",
+            "recruitPageUrl": "https://www.wantedly.com/companies/kikagaku",
+            "techBlogUrl": "https://www.kikagaku.co.jp/kikagaku-blog/"
+        },
+        {
+            "id": 356,
+            "name": "キッチハイク",
+            "recruitPageUrl": "https://kitchhike.jp/recruit",
+            "techBlogUrl": "https://tech.kitchhike.com"
+        },
+        {
+            "id": 357,
+            "name": "キュービック",
+            "recruitPageUrl": "https://cuebic.co.jp/recruit/",
+            "techBlogUrl": "https://cuebic.co.jp/tech-blog/"
+        },
+        {
+            "id": 358,
+            "name": "クイック",
+            "recruitPageUrl": "https://919.jp/recruit/",
+            "techBlogUrl": "https://aimstogeek.hatenablog.com"
+        },
+        {
+            "id": 359,
+            "name": "クイックガード",
+            "recruitPageUrl": "https://quickguard.net/recruit/",
+            "techBlogUrl": "https://tech.quickguard.jp/"
+        },
+        {
+            "id": 360,
+            "name": "クックパッド",
+            "recruitPageUrl": "https://cookpad.careers/",
+            "techBlogUrl": "https://techlife.cookpad.com"
+        },
+        {
+            "id": 361,
+            "name": "クラウドエース",
+            "recruitPageUrl": "https://www.yoshidumi-group-recruit.com/",
+            "techBlogUrl": "https://zenn.dev/cloud_ace"
+        },
+        {
+            "id": 362,
+            "name": "クラウドネイティブ",
+            "recruitPageUrl": "https://cloudnative.co.jp/recruit/",
+            "techBlogUrl": "https://blog.cloudnative.co.jp/"
+        },
+        {
+            "id": 363,
+            "name": "クラウドワークス",
+            "recruitPageUrl": "https://crowdworks.co.jp/careers/",
+            "techBlogUrl": "https://engineer.crowdworks.jp"
+        },
+        {
+            "id": 364,
+            "name": "クラシコム",
+            "recruitPageUrl": "https://kurashi.com/recruit",
+            "techBlogUrl": "https://note.com/kurashicom_tech"
+        },
+        {
+            "id": 365,
+            "name": "くらしのマーケット",
+            "recruitPageUrl": "https://minma.jp/recruit",
+            "techBlogUrl": "https://tech.curama.jp"
+        },
+        {
+            "id": 366,
+            "name": "クラッソーネ",
+            "recruitPageUrl": "https://www.crassone.co.jp/recruit/",
+            "techBlogUrl": "https://tech.crassone.jp/"
+        },
+        {
+            "id": 367,
+            "name": "クリアコード",
+            "recruitPageUrl": "https://www.clear-code.com/recruitment/",
+            "techBlogUrl": "https://www.clear-code.com/blog/index"
+        },
+        {
+            "id": 368,
+            "name": "ぐるなび",
+            "recruitPageUrl": "https://corporate.gnavi.co.jp/recruit/",
+            "techBlogUrl": "https://developers.gnavi.co.jp"
+        },
+        {
+            "id": 369,
+            "name": "クロスビット",
+            "recruitPageUrl": "https://x-bit.co.jp/recruit",
+            "techBlogUrl": "https://zenn.dev/p/xbit"
+        },
+        {
+            "id": 370,
+            "name": "クロスマート",
+            "recruitPageUrl": "https://xorder.notion.site/386c6fdd18cc4a919ce4bb9e8143fd28?pvs=4",
+            "techBlogUrl": "https://xmart-techblog.hatenablog.com"
+        },
+        {
+            "id": 371,
+            "name": "ゲームエイト",
+            "recruitPageUrl": "https://game8.co.jp/recruit",
+            "techBlogUrl": "https://zenn.dev/p/game8_blog"
+        },
+        {
+            "id": 372,
+            "name": "コインチェック",
+            "recruitPageUrl": "https://corporate.coincheck.com/recruit",
+            "techBlogUrl": "https://tech.coincheck.blog"
+        },
+        {
+            "id": 373,
+            "name": "ココナラ",
+            "recruitPageUrl": "https://coconala.co.jp/recruit/engineer/",
+            "techBlogUrl": "https://zenn.dev/coconala"
+        },
+        {
+            "id": 374,
+            "name": "コドモン",
+            "recruitPageUrl": "https://www.codmon.co.jp/recruit/",
+            "techBlogUrl": "https://tech.codmon.com"
+        },
+        {
+            "id": 375,
+            "name": "コネヒト",
+            "recruitPageUrl": "https://connehito.com/recruit/",
+            "techBlogUrl": "https://tech.connehito.com"
+        },
+        {
+            "id": 376,
+            "name": "コミューン",
+            "recruitPageUrl": "https://communeinc.com/ja/careers",
+            "techBlogUrl": "https://tech.commmune.jp"
+        },
+        {
+            "id": 377,
+            "name": "コラボスタイル",
+            "recruitPageUrl": "https://www.wantedly.com/companies/company_8613418/projects",
+            "techBlogUrl": "https://zenn.dev/p/collabostyle"
+        },
+        {
+            "id": 378,
+            "name": "コロプラ",
+            "recruitPageUrl": "https://colopl.co.jp/recruit/",
+            "techBlogUrl": "https://blog.colopl.dev"
+        },
+        {
+            "id": 379,
+            "name": "サーバーワークス",
+            "recruitPageUrl": "https://www.serverworks.co.jp/recruit/",
+            "techBlogUrl": "https://blog.serverworks.co.jp"
+        },
+        {
+            "id": 380,
+            "name": "サイオステクノロジー",
+            "recruitPageUrl": "https://sios.jp/recruit/",
+            "techBlogUrl": "https://tech-lab.sios.jp"
+        },
+        {
+            "id": 381,
+            "name": "サイゼント",
+            "recruitPageUrl": "https://cyzennt.co.jp/recruite/",
+            "techBlogUrl": "https://cyzennt.co.jp/blog/"
+        },
+        {
+            "id": 382,
+            "name": "サイバーエージェント",
+            "recruitPageUrl": "https://www.cyberagent.co.jp/careers/professional/",
+            "techBlogUrl": "https://developers.cyberagent.co.jp/blog/"
+        },
+        {
+            "id": 383,
+            "name": "サイバーディフェンス研究所",
+            "recruitPageUrl": "https://www.cyberdefense.jp/career.html",
+            "techBlogUrl": "https://io.cyberdefense.jp/"
+        },
+        {
+            "id": 384,
+            "name": "サイボウズ",
+            "recruitPageUrl": "https://cybozu.co.jp/recruit/",
+            "techBlogUrl": "https://blog.cybozu.io"
+        },
+        {
+            "id": 385,
+            "name": "さくら",
+            "recruitPageUrl": "https://www.sakura.ad.jp/recruit/",
+            "techBlogUrl": "https://knowledge.sakura.ad.jp/"
+        },
+        {
+            "id": 386,
+            "name": "サムザップ",
+            "recruitPageUrl": "https://sumzap.co.jp/recruit/",
+            "techBlogUrl": "https://tech.sumzap.co.jp"
+        },
+        {
+            "id": 387,
+            "name": "サントリーウエルネス",
+            "recruitPageUrl": "https://www.suntory.co.jp/recruit/",
+            "techBlogUrl": "https://wellness-tech.suntory.co.jp/"
+        },
+        {
+            "id": 388,
+            "name": "シー・エス・エス",
+            "recruitPageUrl": "https://holdings.css-net.co.jp/recruit/",
+            "techBlogUrl": "https://blog.css-net.co.jp"
+        },
+        {
+            "id": 389,
+            "name": "ジークレスト",
+            "recruitPageUrl": "https://www.gcrest.com/recruit/",
+            "techBlogUrl": "https://blog.gcrest.com"
+        },
+        {
+            "id": 390,
+            "name": "シェアフル",
+            "recruitPageUrl": "https://sharefull.com/recruit/",
+            "techBlogUrl": "https://zenn.dev/sharefull"
+        },
+        {
+            "id": 391,
+            "name": "ジェイテックジャパン",
+            "recruitPageUrl": null,
+            "techBlogUrl": "https://zenn.dev/jtechjapan"
+        },
+        {
+            "id": 392,
+            "name": "じげん",
+            "recruitPageUrl": "https://overs.zigexn.co.jp/career/",
+            "techBlogUrl": "https://overs.zigexn.co.jp/technology/"
+        },
+        {
+            "id": 393,
+            "name": "シナジーマーケティング",
+            "recruitPageUrl": "https://synergist.jp/",
+            "techBlogUrl": "https://blog.techscore.com"
+        },
+        {
+            "id": 394,
+            "name": "シナプス",
+            "recruitPageUrl": "https://corp.synapse.jp/work/recruit/",
+            "techBlogUrl": "https://tech.synapse.jp"
+        },
+        {
+            "id": 395,
+            "name": "シビラ",
+            "recruitPageUrl": null,
+            "techBlogUrl": "https://zenn.dev/sivira"
+        },
+        {
+            "id": 396,
+            "name": "ジモティー",
+            "recruitPageUrl": "https://jmty.co.jp/recruit_top/",
+            "techBlogUrl": "https://jmty-tech.hatenablog.com"
+        },
+        {
+            "id": 397,
+            "name": "シンクロ・フード",
+            "recruitPageUrl": "https://recruit.synchro-food.co.jp/",
+            "techBlogUrl": "https://tech.synchro-food.co.jp"
+        },
+        {
+            "id": 398,
+            "name": "シンシア",
+            "recruitPageUrl": "https://www.sincerehq.com/recruit/",
+            "techBlogUrl": "https://xincere-tech.hatenablog.com"
+        },
+        {
+            "id": 399,
+            "name": "シンプルフォーム",
+            "recruitPageUrl": "https://www.simpleform.co.jp/careers",
+            "techBlogUrl": "https://zenn.dev/p/simpleform_blog"
+        },
+        {
+            "id": 400,
+            "name": "スイッチサイエンス",
+            "recruitPageUrl": "https://www.switch-science.com/pages/recruit",
+            "techBlogUrl": "https://tech.144lab.com"
         }
     ]
 }
