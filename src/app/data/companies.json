@@ -2399,6 +2399,306 @@
             "name": "スイッチサイエンス",
             "recruitPageUrl": "https://www.switch-science.com/pages/recruit",
             "techBlogUrl": "https://tech.144lab.com"
+        },
+        {
+            "id": 401,
+            "name": "スターフェスティバル(Zenn Publication)",
+            "recruitPageUrl": "https://stafes.notion.site/d0996a00d77d418280982797c7e16001",
+            "techBlogUrl": "https://zenn.dev/p/stafes_blog"
+        },
+        {
+            "id": 402,
+            "name": "スタイル・エッジ",
+            "recruitPageUrl": "https://recruit.styleedge.co.jp/",
+            "techBlogUrl": "https://techblog.styleedge.co.jp"
+        },
+        {
+            "id": 403,
+            "name": "スタディサプリ",
+            "recruitPageUrl": "https://www.recruit.co.jp/employment/",
+            "techBlogUrl": "https://blog.studysapuri.jp"
+        },
+        {
+            "id": 404,
+            "name": "スタディスト",
+            "recruitPageUrl": "https://recruit.studist.jp/",
+            "techBlogUrl": "https://studist.tech"
+        },
+        {
+            "id": 405,
+            "name": "スタメン",
+            "recruitPageUrl": "https://stmn-group.notion.site/fdc85e02a3c24842b689364e84dcbe73",
+            "techBlogUrl": "https://tech.stmn.co.jp"
+        },
+        {
+            "id": 406,
+            "name": "ストックマーク",
+            "recruitPageUrl": "https://stockmark.co.jp/recruit",
+            "techBlogUrl": "https://stockmark-tech.hatenablog.com/"
+        },
+        {
+            "id": 407,
+            "name": "スパイダープラス",
+            "recruitPageUrl": "https://jobs.spiderplus.co.jp/",
+            "techBlogUrl": "https://techblog.spiderplus.co.jp"
+        },
+        {
+            "id": 408,
+            "name": "スピッカート",
+            "recruitPageUrl": "https://spicato.com/company/",
+            "techBlogUrl": "https://zenn.dev/spicato_inc"
+        },
+        {
+            "id": 409,
+            "name": "スペースマーケット",
+            "recruitPageUrl": "https://spacemarket.co.jp/recruit/",
+            "techBlogUrl": "https://blog.spacemarket.com/category/code/"
+        },
+        {
+            "id": 410,
+            "name": "スペースリー",
+            "recruitPageUrl": "https://corp.spacely.co.jp/recruit/",
+            "techBlogUrl": "https://tech.spacely.co.jp"
+        },
+        {
+            "id": 411,
+            "name": "スマートキャンプ",
+            "recruitPageUrl": "https://smartcamp.co.jp/recruit",
+            "techBlogUrl": "https://tech.smartcamp.co.jp"
+        },
+        {
+            "id": 412,
+            "name": "スマートスタイル",
+            "recruitPageUrl": "https://www.s-style.co.jp/recruit",
+            "techBlogUrl": "https://blog.s-style.co.jp/"
+        },
+        {
+            "id": 413,
+            "name": "スマートラウンド(Zenn Publication)",
+            "recruitPageUrl": "https://jobs.smartround.com/",
+            "techBlogUrl": "https://zenn.dev/p/smartround_dev"
+        },
+        {
+            "id": 414,
+            "name": "ゼネット",
+            "recruitPageUrl": "https://recruit.zenet-web.co.jp/",
+            "techBlogUrl": "https://media.zenet-web.co.jp"
+        },
+        {
+            "id": 415,
+            "name": "ダイアログ",
+            "recruitPageUrl": "https://www.dialog-inc.com/recruit/",
+            "techBlogUrl": "https://dialog-tech.hatenablog.com"
+        },
+        {
+            "id": 416,
+            "name": "ダイニー",
+            "recruitPageUrl": "https://recruit2024.dinii.jp/",
+            "techBlogUrl": "https://note.com/dinii/m/mf6424286cfa2"
+        },
+        {
+            "id": 417,
+            "name": "タイマーズ",
+            "recruitPageUrl": "https://timers-inc.com/recruit/engineering",
+            "techBlogUrl": "https://techblog.timers-inc.com"
+        },
+        {
+            "id": 418,
+            "name": "タイミー",
+            "recruitPageUrl": "https://product-recruit.timee.co.jp/",
+            "techBlogUrl": "https://tech.timee.co.jp"
+        },
+        {
+            "id": 419,
+            "name": "タケユー・ウェブ",
+            "recruitPageUrl": "https://takeyuweb.co.jp/recruit/",
+            "techBlogUrl": "https://zenn.dev/p/takeyuwebinc"
+        },
+        {
+            "id": 420,
+            "name": "チームラボ　フロントエンド班",
+            "recruitPageUrl": "https://www.team-lab.com/recruit/fresh/frontend_engineer/?utm_source=zenn&utm_medium=referral&utm_campaign=",
+            "techBlogUrl": "https://zenn.dev/p/teamlab_fe"
+        },
+        {
+            "id": 421,
+            "name": "ちょっと",
+            "recruitPageUrl": "https://chot-inc.com/recruit",
+            "techBlogUrl": "https://zenn.dev/p/chot"
+        },
+        {
+            "id": 422,
+            "name": "ディーネット",
+            "recruitPageUrl": "https://blog.denet.co.jp/career1/?doing_wp_cron=1728737774.2796950340270996093750",
+            "techBlogUrl": "https://blog.denet.co.jp/"
+        },
+        {
+            "id": 423,
+            "name": "テクニカルエージェント",
+            "recruitPageUrl": "https://recruit-ta.jp/",
+            "techBlogUrl": "https://tracl.cloud/archives/engineerblog"
+        },
+        {
+            "id": 424,
+            "name": "テコテック",
+            "recruitPageUrl": "https://www.tecotec.co.jp/recruit/",
+            "techBlogUrl": "https://tec.tecotec.co.jp"
+        },
+        {
+            "id": 425,
+            "name": "デザインワン・ジャパン",
+            "recruitPageUrl": "https://recruit.designone.jp/",
+            "techBlogUrl": "https://tech.designone.jp"
+        },
+        {
+            "id": 426,
+            "name": "デザミス",
+            "recruitPageUrl": "https://www.desamis.co.jp/recruit",
+            "techBlogUrl": "https://zenn.dev/u_motion"
+        },
+        {
+            "id": 427,
+            "name": "テックタッチ",
+            "recruitPageUrl": "https://techtouch.jp/recruit/",
+            "techBlogUrl": "https://techtouch.hatenablog.jp"
+        },
+        {
+            "id": 428,
+            "name": "テックファーム",
+            "recruitPageUrl": "https://recruit.techfirm.co.jp/",
+            "techBlogUrl": "https://www.techfirm.co.jp/blog/"
+        },
+        {
+            "id": 429,
+            "name": "テラーノベル",
+            "recruitPageUrl": "https://career.tellernovel.com/",
+            "techBlogUrl": "https://zenn.dev/p/tellernovel_inc"
+        },
+        {
+            "id": 430,
+            "name": "ドクターズプライム",
+            "recruitPageUrl": "https://careers.drsprime.com/",
+            "techBlogUrl": "https://blog.drsprime.com/category/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0"
+        },
+        {
+            "id": 431,
+            "name": "ドコカデ",
+            "recruitPageUrl": "https://dokokade.co.jp/inc/jobs",
+            "techBlogUrl": "https://zenn.dev/dokokade"
+        },
+        {
+            "id": 432,
+            "name": "トップゲート",
+            "recruitPageUrl": "https://g-gen.co.jp/company/#about",
+            "techBlogUrl": "https://www.topgate.co.jp/blog"
+        },
+        {
+            "id": 433,
+            "name": "トドケール(Zenn Publication)",
+            "recruitPageUrl": "https://todoker.notion.site/efc2eea5eb054b6e8757fa3553af58d1",
+            "techBlogUrl": "https://zenn.dev/p/todoker_blog"
+        },
+        {
+            "id": 434,
+            "name": "トヨクモ",
+            "recruitPageUrl": "https://www.toyokumo.co.jp/careers",
+            "techBlogUrl": "https://tech.toyokumo.co.jp"
+        },
+        {
+            "id": 435,
+            "name": "トラーナ",
+            "recruitPageUrl": "https://torana.co.jp/about/#company-info-link",
+            "techBlogUrl": "https://tech.torana.co.jp"
+        },
+        {
+            "id": 436,
+            "name": "トライト",
+            "recruitPageUrl": "https://recruit.tryt-group.co.jp/",
+            "techBlogUrl": "https://tryt-group.hatenablog.com"
+        },
+        {
+            "id": 437,
+            "name": "トラストバンク",
+            "recruitPageUrl": "https://www.trustbank.co.jp/recruit/",
+            "techBlogUrl": "https://tech.trustbank.co.jp"
+        },
+        {
+            "id": 438,
+            "name": "トラベルブック",
+            "recruitPageUrl": "https://corp.travelbook.co.jp/",
+            "techBlogUrl": "https://tech.travelbook.co.jp/"
+        },
+        {
+            "id": 439,
+            "name": "ドリコム",
+            "recruitPageUrl": "https://drecom.co.jp/recruit/",
+            "techBlogUrl": "https://tech.drecom.co.jp/"
+        },
+        {
+            "id": 440,
+            "name": "トレタ",
+            "recruitPageUrl": "https://corp.toreta.in/recruit/",
+            "techBlogUrl": "https://tech.toreta.in"
+        },
+        {
+            "id": 441,
+            "name": "ドワンゴ",
+            "recruitPageUrl": "https://recruit.dwango.co.jp/",
+            "techBlogUrl": "https://dwango.github.io/"
+        },
+        {
+            "id": 442,
+            "name": "ナレッジコミュニケーション",
+            "recruitPageUrl": "https://www.knowledgecommunication.jp/recruit/",
+            "techBlogUrl": "https://recipe.kc-cloud.jp/"
+        },
+        {
+            "id": 443,
+            "name": "ナレッジワーク",
+            "recruitPageUrl": "https://kwork.studio/recruit-engineer",
+            "techBlogUrl": "https://note.com/knowledgework"
+        },
+        {
+            "id": 444,
+            "name": "ナンバーフォー",
+            "recruitPageUrl": "https://www.no4.co.jp/recruit/",
+            "techBlogUrl": "https://zenn.dev/p/no4_dev"
+        },
+        {
+            "id": 445,
+            "name": "ニコシス",
+            "recruitPageUrl": "https://nicosys.co.jp/jp/career/",
+            "techBlogUrl": "https://zenn.dev/p/nicosys_pub"
+        },
+        {
+            "id": 446,
+            "name": "ニフクラ",
+            "recruitPageUrl": "https://fujitsu.recruiting.jp.fujitsu.com/",
+            "techBlogUrl": "https://blog.pfs.nifcloud.com"
+        },
+        {
+            "id": 447,
+            "name": "ニフティライフスタイル",
+            "recruitPageUrl": "https://niftylifestyle.co.jp/careers/",
+            "techBlogUrl": "https://tech.niftylifestyle.co.jp"
+        },
+        {
+            "id": 448,
+            "name": "ヌーラボ",
+            "recruitPageUrl": "https://nulab.com/ja/about/careers/",
+            "techBlogUrl": "https://nulab.com/ja/blog/categories/techblog/"
+        },
+        {
+            "id": 449,
+            "name": "ネクストスケープ",
+            "recruitPageUrl": "https://recruit.nextscape.net/",
+            "techBlogUrl": "https://blog.nextscape.net"
+        },
+        {
+            "id": 450,
+            "name": "ネクストビート",
+            "recruitPageUrl": "https://www.nextbeat.co.jp/recruit",
+            "techBlogUrl": "https://medium.com/nextbeat-engineering"
         }
     ]
 }
