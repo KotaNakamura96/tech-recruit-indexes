@@ -902,7 +902,7 @@
         },
         {
             "id": 151,
-            "name": "Luup(Zenn Publication)",
+            "name": "Luup",
             "recruitPageUrl": "https://recruit.luup.sc/",
             "techBlogUrl": "https://zenn.dev/p/luup_developers"
         },
@@ -1118,7 +1118,7 @@
         },
         {
             "id": 187,
-            "name": "Offers(Zenn Publication)",
+            "name": "Offers",
             "recruitPageUrl": "https://jobs.overflow.co.jp/",
             "techBlogUrl": "https://zenn.dev/p/overflow_offers"
         },
@@ -2402,7 +2402,7 @@
         },
         {
             "id": 401,
-            "name": "スターフェスティバル(Zenn Publication)",
+            "name": "スターフェスティバル",
             "recruitPageUrl": "https://stafes.notion.site/d0996a00d77d418280982797c7e16001",
             "techBlogUrl": "https://zenn.dev/p/stafes_blog"
         },
@@ -2474,7 +2474,7 @@
         },
         {
             "id": 413,
-            "name": "スマートラウンド(Zenn Publication)",
+            "name": "スマートラウンド",
             "recruitPageUrl": "https://jobs.smartround.com/",
             "techBlogUrl": "https://zenn.dev/p/smartround_dev"
         },
@@ -2594,7 +2594,7 @@
         },
         {
             "id": 433,
-            "name": "トドケール(Zenn Publication)",
+            "name": "トドケール",
             "recruitPageUrl": "https://todoker.notion.site/efc2eea5eb054b6e8757fa3553af58d1",
             "techBlogUrl": "https://zenn.dev/p/todoker_blog"
         },
@@ -2699,6 +2699,306 @@
             "name": "ネクストビート",
             "recruitPageUrl": "https://www.nextbeat.co.jp/recruit",
             "techBlogUrl": "https://medium.com/nextbeat-engineering"
+        },
+        {
+            "id": 451,
+            "name": "ネフロック",
+            "recruitPageUrl": "https://www.nefrock.com/ja/recruitment",
+            "techBlogUrl": "https://blog.nefrock.com"
+        },
+        {
+            "id": 452,
+            "name": "パーソルキャリア",
+            "recruitPageUrl": "https://www.persol-career.co.jp/recruit/career/",
+            "techBlogUrl": "https://techtekt.persol-career.co.jp"
+        },
+        {
+            "id": 453,
+            "name": "パーソルプロセス＆テクノロジー",
+            "recruitPageUrl": "https://persol-xtech.co.jp/recruit/",
+            "techBlogUrl": "https://note.com/ppt_hr/m/md77242321979"
+        },
+        {
+            "id": 454,
+            "name": "パーソンリンク",
+            "recruitPageUrl": "https://www.person-link.co.jp/recruit",
+            "techBlogUrl": "https://zenn.dev/person_link"
+        },
+        {
+            "id": 455,
+            "name": "ハートビーツ",
+            "recruitPageUrl": "https://recruit.heartbeats.jp/",
+            "techBlogUrl": "https://heartbeats.jp/hbblog/"
+        },
+        {
+            "id": 456,
+            "name": "ハイウィザード",
+            "recruitPageUrl": "https://high-wizard.com/recruit/index.html",
+            "techBlogUrl": "https://high-wizard.hatenablog.com"
+        },
+        {
+            "id": 457,
+            "name": "バイセル",
+            "recruitPageUrl": "https://buysell-technologies.com/recruit/",
+            "techBlogUrl": "https://tech.buysell-technologies.com"
+        },
+        {
+            "id": 458,
+            "name": "ハイリンク",
+            "recruitPageUrl": "https://recruit.high-link.co.jp/",
+            "techBlogUrl": "https://tech.high-link.co.jp"
+        },
+        {
+            "id": 459,
+            "name": "ハウテレビジョン",
+            "recruitPageUrl": "https://recruit.howtelevision.co.jp/",
+            "techBlogUrl": "https://blog.howtelevision.co.jp"
+        },
+        {
+            "id": 460,
+            "name": "ハコベル",
+            "recruitPageUrl": "https://recruit.hacobell.com/",
+            "techBlogUrl": "https://zenn.dev/p/hacobell_dev"
+        },
+        {
+            "id": 461,
+            "name": "バスキュール",
+            "recruitPageUrl": "https://bascule.co.jp/join-us/",
+            "techBlogUrl": "https://blog.bascule.co.jp"
+        },
+        {
+            "id": 462,
+            "name": "はてな",
+            "recruitPageUrl": "https://hatena.co.jp/recruit",
+            "techBlogUrl": "https://developer.hatenastaff.com"
+        },
+        {
+            "id": 463,
+            "name": "パトコア",
+            "recruitPageUrl": "https://patcore.com/recruit/",
+            "techBlogUrl": "https://tech.patcore.com"
+        },
+        {
+            "id": 464,
+            "name": "バレットグループ",
+            "recruitPageUrl": "https://bltinc.co.jp/recruiting/",
+            "techBlogUrl": "https://blog.bltinc.co.jp"
+        },
+        {
+            "id": 465,
+            "name": "ハロー",
+            "recruitPageUrl": "https://www.hello.ai/careers",
+            "techBlogUrl": "https://tech.hello.ai"
+        },
+        {
+            "id": 466,
+            "name": "ハンズラボ",
+            "recruitPageUrl": "https://www.hands-lab.com/recruit/",
+            "techBlogUrl": "https://www.hands-lab.com/blog/"
+        },
+        {
+            "id": 467,
+            "name": "ピクシブ",
+            "recruitPageUrl": "https://www.pixiv.co.jp/recruitment/",
+            "techBlogUrl": "https://inside.pixiv.blog"
+        },
+        {
+            "id": 468,
+            "name": "ピクスタ",
+            "recruitPageUrl": "https://recruit.pixta.co.jp/",
+            "techBlogUrl": "https://texta.pixta.jp"
+        },
+        {
+            "id": 469,
+            "name": "ビザスク",
+            "recruitPageUrl": "https://developer-recruit.visasq.works/",
+            "techBlogUrl": "https://tech.visasq.com"
+        },
+        {
+            "id": 470,
+            "name": "ヒストリア",
+            "recruitPageUrl": "https://historia.co.jp/recruit/",
+            "techBlogUrl": "https://historia.co.jp/"
+        },
+        {
+            "id": 471,
+            "name": "ビットバンク",
+            "recruitPageUrl": "https://recruit.bitbank.cc/?utm_source=blog&utm_medium=referral&utm_campaign=engineer",
+            "techBlogUrl": "https://tech.bitbank.cc/"
+        },
+        {
+            "id": 472,
+            "name": "ピリカ",
+            "recruitPageUrl": "https://corp.pirika.org/recruit/",
+            "techBlogUrl": "https://devblog.pirika.org"
+        },
+        {
+            "id": 473,
+            "name": "ファースト・オートメーション",
+            "recruitPageUrl": "https://firstam.notion.site/5d68308315da46e7b0a7e02742338188",
+            "techBlogUrl": "https://zenn.dev/p/firstautomation"
+        },
+        {
+            "id": 474,
+            "name": "ファブリカ",
+            "recruitPageUrl": "https://www.fabrica-com.co.jp/recruit",
+            "techBlogUrl": "https://www.fabrica-com.co.jp/techblog/"
+        },
+        {
+            "id": 475,
+            "name": "ファンタラクティブ",
+            "recruitPageUrl": "https://funteractive.co.jp/recruit/",
+            "techBlogUrl": "https://zenn.dev/funteractive"
+        },
+        {
+            "id": 476,
+            "name": "フィードフォース",
+            "recruitPageUrl": "https://recruit.feedforce.jp/",
+            "techBlogUrl": "https://developer.feedforce.jp"
+        },
+        {
+            "id": 477,
+            "name": "フェズ",
+            "recruitPageUrl": "https://www.fez-inc.jp/recruit",
+            "techBlogUrl": "https://zenn.dev/p/fez_tech"
+        },
+        {
+            "id": 478,
+            "name": "フェンリル",
+            "recruitPageUrl": "https://recruit.fenrir-inc.com/",
+            "techBlogUrl": "https://engineers.fenrir-inc.com"
+        },
+        {
+            "id": 479,
+            "name": "フォージビジョン",
+            "recruitPageUrl": "https://forgevision.com/recruit/",
+            "techBlogUrl": "https://techblog.forgevision.com"
+        },
+        {
+            "id": 480,
+            "name": "フォトシンス",
+            "recruitPageUrl": "https://photosynth.co.jp/jobs/",
+            "techBlogUrl": "https://akerun.hateblo.jp"
+        },
+        {
+            "id": 481,
+            "name": "フクロウラボ",
+            "recruitPageUrl": "https://fukurou-labo.co.jp/recruit/",
+            "techBlogUrl": "https://blog.fukurou-labo.co.jp/"
+        },
+        {
+            "id": 482,
+            "name": "ブックウォーカー",
+            "recruitPageUrl": "https://developers.bookwalker.jp/archive/category/%E6%8E%A1%E7%94%A8",
+            "techBlogUrl": "https://developers.bookwalker.jp"
+        },
+        {
+            "id": 483,
+            "name": "フューチャー",
+            "recruitPageUrl": "https://www.future.co.jp/recruit/",
+            "techBlogUrl": "https://future-architect.github.io/"
+        },
+        {
+            "id": 484,
+            "name": "プラチナゲームズ",
+            "recruitPageUrl": "https://www.platinumgames.co.jp/recruit/",
+            "techBlogUrl": "https://www.platinumgames.co.jp/official-blog/"
+        },
+        {
+            "id": 485,
+            "name": "プラハ",
+            "recruitPageUrl": "https://tech.agaroot.co.jp/#recruit",
+            "techBlogUrl": "https://zenn.dev/p/praha"
+        },
+        {
+            "id": 486,
+            "name": "プラミナス",
+            "recruitPageUrl": "https://plmin.us/recruit/",
+            "techBlogUrl": "https://zenn.dev/plminus"
+        },
+        {
+            "id": 487,
+            "name": "フリークアウト",
+            "recruitPageUrl": "https://www.fout.co.jp/recruit/",
+            "techBlogUrl": "https://backyard.fout.co.jp/"
+        },
+        {
+            "id": 488,
+            "name": "ブリスウェル",
+            "recruitPageUrl": "https://www.briswell.com/recruit/",
+            "techBlogUrl": "https://tech.briswell.com"
+        },
+        {
+            "id": 489,
+            "name": "フリュー",
+            "recruitPageUrl": "https://www.furyu.jp/recruit/",
+            "techBlogUrl": "https://tech.furyu.jp"
+        },
+        {
+            "id": 490,
+            "name": "ブレインズコンサルティング",
+            "recruitPageUrl": "https://bci-recruiting.com/",
+            "techBlogUrl": "https://blog.brains-consulting.tech"
+        },
+        {
+            "id": 491,
+            "name": "フレクト",
+            "recruitPageUrl": "https://www.flect.co.jp/company/outline/",
+            "techBlogUrl": "https://cloud.flect.co.jp"
+        },
+        {
+            "id": 492,
+            "name": "プレックス",
+            "recruitPageUrl": "https://dev.plex.co.jp/",
+            "techBlogUrl": "https://product.plex.co.jp"
+        },
+        {
+            "id": 493,
+            "name": "ベイジ",
+            "recruitPageUrl": "https://baigie.me/job/",
+            "techBlogUrl": "https://baigie.me/"
+        },
+        {
+            "id": 494,
+            "name": "ペイトナー",
+            "recruitPageUrl": "https://paytner.co.jp/recruit",
+            "techBlogUrl": "https://paytner.hatenablog.com"
+        },
+        {
+            "id": 495,
+            "name": "ベースマキナ",
+            "recruitPageUrl": "https://basemachina.jp/recruit",
+            "techBlogUrl": "https://tech.basemachina.jp"
+        },
+        {
+            "id": 496,
+            "name": "ヘッドウォータース",
+            "recruitPageUrl": "https://www.headwaters.co.jp/recruit/",
+            "techBlogUrl": "https://zenn.dev/p/headwaters"
+        },
+        {
+            "id": 497,
+            "name": "ペライチ",
+            "recruitPageUrl": "https://recruit.peraichi.co.jp/",
+            "techBlogUrl": "https://zenn.dev/p/peraichi_blog"
+        },
+        {
+            "id": 498,
+            "name": "ベルシステム",
+            "recruitPageUrl": "https://www.bell24.co.jp/ja/recruit/",
+            "techBlogUrl": "https://note.com/pocke_techblog"
+        },
+        {
+            "id": 499,
+            "name": "ホワイトプラス",
+            "recruitPageUrl": "https://www.wh-plus.co.jp/recruit/",
+            "techBlogUrl": "https://blog.wh-plus.co.jp"
+        },
+        {
+            "id": 500,
+            "name": "マイベスト",
+            "recruitPageUrl": "https://my-best.com/company/recruitment/",
+            "techBlogUrl": "https://zenn.dev/p/mybest_dev"
         }
     ]
 }
