@@ -2999,6 +2999,306 @@
             "name": "マイベスト",
             "recruitPageUrl": "https://my-best.com/company/recruitment/",
             "techBlogUrl": "https://zenn.dev/p/mybest_dev"
+        },
+        {
+            "id": 501,
+            "name": "マインディア",
+            "recruitPageUrl": "https://corporate.minedia.com/recruit",
+            "techBlogUrl": "https://zenn.dev/p/minedia"
+        },
+        {
+            "id": 502,
+            "name": "マップボックス・ジャパン",
+            "recruitPageUrl": "https://www.mapbox.jp/careers",
+            "techBlogUrl": "https://zenn.dev/p/mapbox_japan"
+        },
+        {
+            "id": 503,
+            "name": "マナリンク(Zenn Publication)",
+            "recruitPageUrl": "https://corp.noschool.asia/recruit/",
+            "techBlogUrl": "https://zenn.dev/p/manalink_dev"
+        },
+        {
+            "id": 504,
+            "name": "マネーフォワード ",
+            "recruitPageUrl": "https://recruit.moneyforward.com/",
+            "techBlogUrl": "https://moneyforward-dev.jp"
+        },
+        {
+            "id": 505,
+            "name": "マネックス",
+            "recruitPageUrl": "https://info.monex.co.jp/recruit/index.html",
+            "techBlogUrl": "https://blog.tech-monex.com"
+        },
+        {
+            "id": 506,
+            "name": "マンハッタンコード",
+            "recruitPageUrl": "https://www.mht-code.com/recruit",
+            "techBlogUrl": "https://zenn.dev/manhattan_code"
+        },
+        {
+            "id": 507,
+            "name": "ミクシィ",
+            "recruitPageUrl": "https://mixigroup-recruit.mixi.co.jp/",
+            "techBlogUrl": "https://mixi-developers.mixi.co.jp"
+        },
+        {
+            "id": 508,
+            "name": "ミスミグループ",
+            "recruitPageUrl": "https://www.misumi.co.jp/corp/recruit/career/",
+            "techBlogUrl": "https://zenn.dev/p/msmtec"
+        },
+        {
+            "id": 509,
+            "name": "ミツエーリンクス",
+            "recruitPageUrl": "https://jobs.mitsue.co.jp/",
+            "techBlogUrl": "https://www.mitsue.co.jp/knowledge/blog/"
+        },
+        {
+            "id": 510,
+            "name": "みてね",
+            "recruitPageUrl": "https://team.mitene.us/jobs",
+            "techBlogUrl": "https://team-blog.mitene.us"
+        },
+        {
+            "id": 511,
+            "name": "みてねコールドクター",
+            "recruitPageUrl": "https://calldoctor.co.jp/recruit/",
+            "techBlogUrl": "https://zenn.dev/p/calldoctor_blog"
+        },
+        {
+            "id": 512,
+            "name": "みらい翻訳",
+            "recruitPageUrl": "https://miraitranslate.com/recruit/",
+            "techBlogUrl": "https://miraitranslate-tech.hatenablog.jp"
+        },
+        {
+            "id": 513,
+            "name": "ミラティブ",
+            "recruitPageUrl": "https://www.mirrativ.co.jp/recruit",
+            "techBlogUrl": "https://tech.mirrativ.stream/"
+        },
+        {
+            "id": 514,
+            "name": "メディアエンジン",
+            "recruitPageUrl": "https://media-engine.jp/#recruit",
+            "techBlogUrl": "https://zenn.dev/media_engine"
+        },
+        {
+            "id": 515,
+            "name": "メディアドゥ",
+            "recruitPageUrl": "https://mediado.jp/recruit/",
+            "techBlogUrl": "https://techdo.mediado.jp"
+        },
+        {
+            "id": 516,
+            "name": "メドピア",
+            "recruitPageUrl": "https://medpeer.co.jp/recruit/",
+            "techBlogUrl": "https://tech.medpeer.co.jp"
+        },
+        {
+            "id": 517,
+            "name": "メドレー",
+            "recruitPageUrl": "https://www.medley.jp/jobs/",
+            "techBlogUrl": "https://developer.medley.jp/"
+        },
+        {
+            "id": 518,
+            "name": "メルカリ",
+            "recruitPageUrl": "https://careers.mercari.com/jobs/engineering/",
+            "techBlogUrl": "https://engineering.mercari.com/"
+        },
+        {
+            "id": 519,
+            "name": "モニクル",
+            "recruitPageUrl": "https://recruit.monicle.co.jp/engineer",
+            "techBlogUrl": "https://zenn.dev/p/monicle"
+        },
+        {
+            "id": 520,
+            "name": "モノグサ",
+            "recruitPageUrl": "https://careers.monoxer.com/",
+            "techBlogUrl": "https://tech.monoxer.com"
+        },
+        {
+            "id": 521,
+            "name": "モノタロウ",
+            "recruitPageUrl": "https://careers.monotaro.com/EngineeringIT",
+            "techBlogUrl": "https://tech-blog.monotaro.com"
+        },
+        {
+            "id": 522,
+            "name": "モバイルファクトリー",
+            "recruitPageUrl": "https://recruit.mobilefactory.jp/recruit/",
+            "techBlogUrl": "https://tech.mobilefactory.jp"
+        },
+        {
+            "id": 523,
+            "name": "モリサワ",
+            "recruitPageUrl": "https://www.morisawa.co.jp/about/recruit/",
+            "techBlogUrl": "https://zenn.dev/p/morisawa"
+        },
+        {
+            "id": 524,
+            "name": "モルフォ",
+            "recruitPageUrl": "https://www.morphoinc.com/careers",
+            "techBlogUrl": "https://techblog.morphoinc.com"
+        },
+        {
+            "id": 525,
+            "name": "モンスターラボ",
+            "recruitPageUrl": "https://www.join.monstar-lab.com/",
+            "techBlogUrl": "https://engineering.monstar-lab.com/jp/"
+        },
+        {
+            "id": 526,
+            "name": "ユカシカド",
+            "recruitPageUrl": "https://en-gage.net/yukashikad_recruit/",
+            "techBlogUrl": "https://tech.yukashikado.co.jp/"
+        },
+        {
+            "id": 527,
+            "name": "ユニファ",
+            "recruitPageUrl": "https://unifa-e.com/recruit",
+            "techBlogUrl": "https://tech.unifa-e.com"
+        },
+        {
+            "id": 528,
+            "name": "ユニラボ",
+            "recruitPageUrl": "https://careers.proni.co.jp/",
+            "techBlogUrl": "https://note.proni.co.jp/m/mc84cf9468445"
+        },
+        {
+            "id": 529,
+            "name": "ユビレジ",
+            "recruitPageUrl": "https://corp.ubiregi.jp/acceptance/",
+            "techBlogUrl": "https://note.com/ubiregi/m/madc9f4f38ad9"
+        },
+        {
+            "id": 530,
+            "name": "ゆめみ",
+            "recruitPageUrl": "https://www.yumemi.co.jp/category/recruit",
+            "techBlogUrl": "https://zenn.dev/p/yumemi_inc"
+        },
+        {
+            "id": 531,
+            "name": "ライトハウス",
+            "recruitPageUrl": "https://lighthouse-frontier.tech/",
+            "techBlogUrl": "https://developers.lighthouse-frontier.tech"
+        },
+        {
+            "id": 532,
+            "name": "ラクーン",
+            "recruitPageUrl": "https://www.raccoon.ne.jp/recruit",
+            "techBlogUrl": "https://techblog.raccoon.ne.jp"
+        },
+        {
+            "id": 533,
+            "name": "ラクス",
+            "recruitPageUrl": "https://career-recruit.rakus.co.jp/career_engineer/",
+            "techBlogUrl": "https://tech-blog.rakus.co.jp"
+        },
+        {
+            "id": 534,
+            "name": "ラクスル",
+            "recruitPageUrl": "https://recruit.raksul.com/",
+            "techBlogUrl": "https://techblog.raksul.com"
+        },
+        {
+            "id": 535,
+            "name": "ラック",
+            "recruitPageUrl": "https://www.lac.co.jp/recruit/",
+            "techBlogUrl": "https://devblog.lac.co.jp"
+        },
+        {
+            "id": 536,
+            "name": "ラブグラフ",
+            "recruitPageUrl": "https://corporate.lovegraph.me/recruit",
+            "techBlogUrl": "https://zenn.dev/p/lovegraph"
+        },
+        {
+            "id": 537,
+            "name": "ランサーズ",
+            "recruitPageUrl": "https://engineer.blog.lancers.jp/engineer-recruit/",
+            "techBlogUrl": "https://engineer.blog.lancers.jp/"
+        },
+        {
+            "id": 538,
+            "name": "リクルート",
+            "recruitPageUrl": "https://recruit-holdings.com/ja/about/careers/",
+            "techBlogUrl": "https://www.recruit.co.jp/employment/students/engineers/techblog/"
+        },
+        {
+            "id": 539,
+            "name": "リクルートテクノロジーズ",
+            "recruitPageUrl": "https://www.recruit.co.jp/special/tech-info/",
+            "techBlogUrl": "https://techblog.recruit.co.jp/"
+        },
+        {
+            "id": 540,
+            "name": "リサーチ・アンド・イノベーション",
+            "recruitPageUrl": "https://r-n-i.jp/recruit/sales/",
+            "techBlogUrl": "https://rni-dev.hatenablog.com"
+        },
+        {
+            "id": 541,
+            "name": "リゾーム",
+            "recruitPageUrl": "https://www.rhizome-e.com/recruit/",
+            "techBlogUrl": "https://tech.rhizome-e.com"
+        },
+        {
+            "id": 542,
+            "name": "リンカーズ",
+            "recruitPageUrl": "https://linkers.notion.site/093ed6911f77443a8524bdcf116a1824",
+            "techBlogUrl": "https://linkers.hatenablog.com"
+        },
+        {
+            "id": 543,
+            "name": "リンクアンドモチベーション",
+            "recruitPageUrl": "https://www.lmi.ne.jp/recruiting/",
+            "techBlogUrl": "https://link-and-motivation.hatenablog.com"
+        },
+        {
+            "id": 544,
+            "name": "リンコード",
+            "recruitPageUrl": "https://linkode.recruitment.jp/career/",
+            "techBlogUrl": "https://blog.linkode.co.jp"
+        },
+        {
+            "id": 545,
+            "name": "レアジョブ",
+            "recruitPageUrl": "https://appeal.rarejob.co.jp/recruit/",
+            "techBlogUrl": "https://rarejob-tech-dept.hatenablog.com"
+        },
+        {
+            "id": 546,
+            "name": "レアゾン",
+            "recruitPageUrl": "https://recruit.reazon.jp/",
+            "techBlogUrl": "https://techblog.reazon.jp"
+        },
+        {
+            "id": 547,
+            "name": "レイ・フロンティア",
+            "recruitPageUrl": "https://www.rei-frontier.jp/recruit/",
+            "techBlogUrl": "https://tech-blog.rei-frontier.jp"
+        },
+        {
+            "id": 548,
+            "name": "レコチョク",
+            "recruitPageUrl": "https://www.rei-frontier.jp/recruit/",
+            "techBlogUrl": "https://techblog.recochoku.jp/atom"
+        },
+        {
+            "id": 549,
+            "name": "レバテック",
+            "recruitPageUrl": "https://levtech.co.jp/recruit/",
+            "techBlogUrl": "https://zenn.dev/p/levtech"
+        },
+        {
+            "id": 550,
+            "name": "レバレジーズ",
+            "recruitPageUrl": "https://recruit.leverages.jp/recruit/engineer/",
+            "techBlogUrl": "https://tech.leverages.jp"
         }
     ]
 }
