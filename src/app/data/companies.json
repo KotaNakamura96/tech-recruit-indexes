@@ -3299,6 +3299,192 @@
             "name": "レバレジーズ",
             "recruitPageUrl": "https://recruit.leverages.jp/recruit/engineer/",
             "techBlogUrl": "https://tech.leverages.jp"
+        },
+        {
+            "id": 551,
+            "name": "レブコム",
+            "recruitPageUrl": "https://www.revcomm.co.jp/careers/",
+            "techBlogUrl": "https://tech.revcomm.co.jp"
+        },
+        {
+            "id": 552,
+            "name": "レンジャーシステムズ",
+            "recruitPageUrl": "https://www.ranger-systems.co.jp/career/",
+            "techBlogUrl": "https://www.ranger-systems.co.jp/ranger-blog/archives/category/tech"
+        },
+        {
+            "id": 553,
+            "name": "レンティオ",
+            "recruitPageUrl": "https://recruit.rentio.co.jp/",
+            "techBlogUrl": "https://zenn.dev/rentio"
+        },
+        {
+            "id": 554,
+            "name": "ログラス",
+            "recruitPageUrl": "https://www.loglass.co.jp/recruit",
+            "techBlogUrl": "https://zenn.dev/p/loglass"
+        },
+        {
+            "id": 555,
+            "name": "ロコガイド",
+            "recruitPageUrl": "https://locoguide.co.jp/recruit",
+            "techBlogUrl": "https://techblog.locoguide.co.jp"
+        },
+        {
+            "id": 556,
+            "name": "ロジカル・アーツ",
+            "recruitPageUrl": "https://logical.co.jp/recruit/",
+            "techBlogUrl": "https://blog.logical.co.jp"
+        },
+        {
+            "id": 557,
+            "name": "ロジカルビート",
+            "recruitPageUrl": "https://logicalbeat.jp/recruit/",
+            "techBlogUrl": "https://logicalbeat.jp/blog/"
+        },
+        {
+            "id": 558,
+            "name": "ロジクラ",
+            "recruitPageUrl": "https://corp.logikura.jp/recruit",
+            "techBlogUrl": "https://blog.logikura.dev"
+        },
+        {
+            "id": 559,
+            "name": "ワウテック",
+            "recruitPageUrl": "https://recruit.kingsoft.jp/career/",
+            "techBlogUrl": "https://engineer.wowtech.co.jp"
+        },
+        {
+            "id": 560,
+            "name": "ワンキャリア",
+            "recruitPageUrl": "https://onecareer.co.jp/recruit/",
+            "techBlogUrl": "https://note.com/dev_onecareer"
+        },
+        {
+            "id": 561,
+            "name": "ワンダープラネット",
+            "recruitPageUrl": "https://wonderpla.net/recruit/",
+            "techBlogUrl": "https://developers.wonderpla.net"
+        },
+        {
+            "id": 562,
+            "name": "一休",
+            "recruitPageUrl": "https://www.ikyu.co.jp/recruit",
+            "techBlogUrl": "https://user-first.ikyu.co.jp"
+        },
+        {
+            "id": 563,
+            "name": "永和システムマネジメント",
+            "recruitPageUrl": "https://recruit.esm.co.jp/",
+            "techBlogUrl": "https://blog.agile.esm.co.jp"
+        },
+        {
+            "id": 564,
+            "name": "楽天コマース",
+            "recruitPageUrl": "https://corp.rakuten.co.jp/careers/",
+            "techBlogUrl": "https://commerce-engineer.rakuten.careers/category/%E3%83%86%E3%83%83%E3%82%AF"
+        },
+        {
+            "id": 565,
+            "name": "現場サポート",
+            "recruitPageUrl": "https://recruit.genbasupport.com/",
+            "techBlogUrl": "https://support.genbasupport.com/techblog/"
+        },
+        {
+            "id": 566,
+            "name": "虎の穴",
+            "recruitPageUrl": "https://toranoana-lab.co.jp/recruit",
+            "techBlogUrl": "https://toranoana-lab.hatenablog.com"
+        },
+        {
+            "id": 567,
+            "name": "食べチョク",
+            "recruitPageUrl": "https://vivid-garden.co.jp/#RECRUIT",
+            "techBlogUrl": "https://tech.tabechoku.com"
+        },
+        {
+            "id": 568,
+            "name": "食べログ",
+            "recruitPageUrl": "https://corporate.kakaku.com/recruit",
+            "techBlogUrl": "https://tech-blog.tabelog.com"
+        },
+        {
+            "id": 569,
+            "name": "損害保険ジャパン DX推進部",
+            "recruitPageUrl": "https://www.sompo-japan.co.jp/recruit/",
+            "techBlogUrl": "https://zenn.dev/p/sompojapan_dx"
+        },
+        {
+            "id": 570,
+            "name": "朝日ネット",
+            "recruitPageUrl": "https://asahi-net.co.jp/recruit/",
+            "techBlogUrl": "https://techblog.asahi-net.co.jp"
+        },
+        {
+            "id": 571,
+            "name": "朝日新聞社",
+            "recruitPageUrl": null,
+            "techBlogUrl": "https://note.com/asahi_ictrad"
+        },
+        {
+            "id": 572,
+            "name": "電通総研",
+            "recruitPageUrl": "https://www.dentsusoken.com/recruit",
+            "techBlogUrl": "https://tech.dentsusoken.com"
+        },
+        {
+            "id": 573,
+            "name": "東京ガス内製開発チーム",
+            "recruitPageUrl": "https://www.tokyo-gas.co.jp/recruit/index.html",
+            "techBlogUrl": "https://tech-blog.tokyo-gas.co.jp"
+        },
+        {
+            "id": 574,
+            "name": "日販テクシード",
+            "recruitPageUrl": "https://techceed-inc.recruitment.jp/",
+            "techBlogUrl": "https://techceed-inc.com/engineer_blog/"
+        },
+        {
+            "id": 575,
+            "name": "日本ビジネスシステムズ",
+            "recruitPageUrl": "https://recruit.jbs.co.jp/",
+            "techBlogUrl": "https://blog.jbs.co.jp"
+        },
+        {
+            "id": 576,
+            "name": "日本仮想化技術",
+            "recruitPageUrl": "https://virtualtech.jp/recruit/",
+            "techBlogUrl": "https://tech.virtualtech.jp"
+        },
+        {
+            "id": 577,
+            "name": "富士通研究所",
+            "recruitPageUrl": "https://fujitsu.recruiting.jp.fujitsu.com/",
+            "techBlogUrl": "https://blog.fltech.dev"
+        },
+        {
+            "id": 578,
+            "name": "分析屋",
+            "recruitPageUrl": "https://recruit.analytics-jp.com/",
+            "techBlogUrl": "https://note.com/bunsekiya_tech"
+        },
+        {
+            "id": 579,
+            "name": "弁護士ドットコム",
+            "recruitPageUrl": "https://www.bengo4.com/corporate/careers/",
+            "techBlogUrl": "https://creators.bengo4.com"
+        },
+        {
+            "id": 580,
+            "name": "弥生",
+            "recruitPageUrl": "https://www.yayoi-kk.co.jp/company/recruiting/",
+            "techBlogUrl": "https://tech-blog.yayoi-kk.co.jp"
+        },
+        {
+            "id": 581,
+            "name": "遊舎工房",
+            "recruitPageUrl": "https://yushakobo.jp/recruit/",
+            "techBlogUrl": "https://blog.yushakobo.jp"
         }
     ]
 }
